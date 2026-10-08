@@ -16,6 +16,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -222,14 +223,18 @@ def telegram(text):
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if not token or not chat:
         print("Telegram not configured; message was:\n" + text)
-        return
+        return False
     try:
         http_json("POST", f"https://api.telegram.org/bot{token}/sendMessage", body={
             "chat_id": chat, "text": text, "parse_mode": "HTML",
             "disable_web_page_preview": True,
         })
+        return True
+    except urllib.error.HTTPError as e:
+        print(f"Telegram send failed: {e} {e.read().decode(errors='replace')}")
     except Exception as e:
         print(f"Telegram send failed: {e}")
+    return False
 
 
 def store_link(name):
@@ -337,6 +342,8 @@ def write_page_data(now, games, state):
 
 if __name__ == "__main__":
     if "--test-telegram" in sys.argv:
-        telegram("✅ Twitch PS5 tracker can reach you on Telegram.")
+        ok = telegram("✅ Twitch PS5 tracker can reach you on Telegram.")
+        print("Test message sent." if ok else "Test message NOT sent - check the Telegram secrets.")
+        sys.exit(0 if ok else 1)
     else:
         run()

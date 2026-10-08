@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes (GitHub may run it a few minutes late)
   workflow_dispatch:          # lets you run it by hand from the Actions tab
+    inputs:
+      test_telegram:
+        description: "Only send a Telegram test message (no tracking)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,7 +27,15 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Send Telegram test message
+        if: ${{ inputs.test_telegram }}
+        run: python tracker.py --test-telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
       - name: Check Twitch top categories
+        if: ${{ !inputs.test_telegram }}
         run: python tracker.py
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
@@ -31,6 +44,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
       - name: Save history
+        if: ${{ !inputs.test_telegram }}
         run: |
           git config user.name "tracker-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
