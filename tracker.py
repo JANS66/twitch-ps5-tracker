@@ -36,6 +36,17 @@ CACHE_HOURS = 24               # re-check a game's metadata at most once a day
 PAGE_DAYS = 120                # how much history the web page loads
 FREE_KEYWORD = re.compile(r"free[\s-]*(to|2)[\s-]*play|^f2p$", re.I)
 UA = "twitch-ps5-tracker/1.0"
+IGDB_FIELDS = ("fields name,first_release_date,platforms,"
+               "release_dates.platform,release_dates.date,"
+               "keywords.slug,keywords.name,external_games.url;")
+# Twitch categories that are not games; everything else without an igdb_id is looked up by name.
+NON_GAMES = {n.casefold() for n in [
+    "Just Chatting", "IRL", "Music", "Art", "ASMR", "Talk Shows & Podcasts", "Sports",
+    "Travel & Outdoors", "Special Events", "Pools, Hot Tubs, and Beaches", "Food & Drink",
+    "Science & Technology", "Software and Game Development", "Makers & Crafting", "Politics",
+    "Games + Demos", "I'm Only Sleeping", "Animals, Aquariums, and Zoos", "Fitness & Health",
+    "Beauty & Body Art", "Co-working & Studying", "Slots", "Virtual Casino", "Retro",
+]}
 
 
 # ---------- small helpers ----------
@@ -105,15 +116,23 @@ def top_categories(client_id, token, n=TOP_N):
 def igdb_games(client_id, token, igdb_ids):
     if not igdb_ids:
         return {}
-    query = (
-        "fields name,first_release_date,platforms,"
-        "release_dates.platform,release_dates.date,"
-        "keywords.slug,keywords.name,external_games.url;"
-        f" where id = ({','.join(igdb_ids)}); limit 50;"
-    )
+    query = f"{IGDB_FIELDS} where id = ({','.join(igdb_ids)}); limit 50;"
     res = http_json("POST", "https://api.igdb.com/v4/games",
                     {"Client-ID": client_id, "Authorization": f"Bearer {token}"}, query)
     return {str(g["id"]): g for g in res}
+
+
+def igdb_by_name(client_id, token, name):
+    """Fallback for categories Twitch didn't link to IGDB: exact (case-insensitive) name match.
+    Prefers a PS5 entry, then the most recent release, so a 2026 remake wins over an old namesake."""
+    safe = name.replace("\\", "").replace('"', '\\"')
+    query = f'{IGDB_FIELDS} where name ~ "{safe}"; limit 10;'
+    res = http_json("POST", "https://api.igdb.com/v4/games",
+                    {"Client-ID": client_id, "Authorization": f"Bearer {token}"}, query)
+    if not res:
+        return None
+    return max(res, key=lambda g: (PS5_PLATFORM_ID in (g.get("platforms") or []),
+                                   g.get("first_release_date") or 0))
 
 
 def steam_is_free(igdb_game):
@@ -244,7 +263,14 @@ def run():
             for c in stale:
                 if c["igdb_id"] and c["igdb_id"] not in igdb:
                     continue  # IGDB didn't return it this time; retry next run
-                info = describe(c, igdb.get(c["igdb_id"]))
+                game = igdb.get(c["igdb_id"])
+                if not c["igdb_id"] and c["name"].casefold() not in NON_GAMES:
+                    try:
+                        game = igdb_by_name(client_id, token, c["name"])
+                    except Exception as e:
+                        print(f"IGDB name lookup failed for {c['name']}: {e}")
+                        continue
+                info = describe(c, game)
                 info["checked_at"] = iso(now)
                 games[c["id"]] = info
 
