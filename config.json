@@ -1,0 +1,6 @@
+{
+ "_help": "Names must match the Twitch category name (case doesn't matter). force_free/force_paid fix a wrong free-to-play guess; ignore skips a category entirely.",
+ "force_free": [],
+ "force_paid": [],
+ "ignore": []
+}

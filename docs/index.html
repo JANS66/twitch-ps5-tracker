@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PS5 Pick Tracker</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11,11,11,0.10);
+  --good: #006300;
+  --rank-1: #0d366b;
+  --rank-2: #2a78d6;
+  --rank-3: #86b6ef;
+  --empty: #f0efec;
+  --accent: #2a78d6;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7;
+    --muted: #898781; --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+    --good: #0ca30c; --rank-1: #b7d3f6; --rank-2: #5598e7; --rank-3: #184f95;
+    --empty: #232322; --accent: #6da7ec;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7;
+  --muted: #898781; --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+  --good: #0ca30c; --rank-1: #b7d3f6; --rank-2: #5598e7; --rank-3: #184f95;
+  --empty: #232322; --accent: #6da7ec;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--page); color: var(--ink);
+  font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+main { max-width: 1040px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 15px; font-weight: 600; color: var(--ink-2); margin: 0 0 16px; }
+h2 { font-size: 17px; margin: 0 0 12px; }
+section { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+.muted { color: var(--muted); }
+.sub { color: var(--ink-2); }
+a { color: var(--accent); }
+
+.hero-label { font-size: 13px; color: var(--ink-2); text-transform: uppercase; letter-spacing: .04em; }
+.hero-name { font-size: 34px; font-weight: 700; line-height: 1.15; margin: 4px 0 6px; overflow-wrap: anywhere; }
+
+ol.top { list-style: none; margin: 0; padding: 0; }
+ol.top li { display: grid; grid-template-columns: 32px 1fr; gap: 4px 8px; padding: 10px 0; border-top: 1px solid var(--grid); }
+ol.top li:first-child { border-top: 0; }
+.rank { font-variant-numeric: tabular-nums; color: var(--muted); font-weight: 600; }
+.status { grid-column: 2; font-size: 13px; color: var(--ink-2); }
+.status.yes { color: var(--good); font-weight: 600; }
+
+.filters { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
+.filters button {
+  font: inherit; font-size: 13px; padding: 6px 12px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--border); background: var(--surface); color: var(--ink);
+}
+.filters button[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+
+.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 13px; color: var(--ink-2); margin-bottom: 12px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 14px; height: 14px; border-radius: 4px; display: inline-block; }
+
+.heat { display: grid; grid-template-columns: minmax(110px, 200px) 1fr; column-gap: 12px; row-gap: 4px; align-items: center; }
+.heat .label { font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.heat .label .ok { color: var(--good); font-weight: 700; margin-right: 4px; }
+.heat svg { display: block; width: 100%; height: 22px; border-radius: 4px; background: var(--empty); cursor: crosshair; }
+@media (max-width: 600px) {
+  .heat { grid-template-columns: 1fr; row-gap: 2px; }
+  .heat svg { margin-bottom: 8px; }
+  .axis { grid-column: 1 !important; }
+  .heat > .spacer { display: none; }
+}
+.axis { grid-column: 2; display: flex; justify-content: space-between; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; padding-top: 4px; }
+
+#tip {
+  position: fixed; pointer-events: none; z-index: 10; display: none;
+  background: var(--surface); color: var(--ink); border: 1px solid var(--border);
+  border-radius: 8px; padding: 8px 10px; font-size: 13px; box-shadow: 0 4px 16px rgba(0,0,0,.15);
+}
+#tip strong { display: block; font-size: 15px; }
+
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px 8px 0; border-top: 1px solid var(--grid); vertical-align: top; }
+th { font-weight: 600; color: var(--ink-2); font-size: 13px; border-top: 0; }
+td.num { font-variant-numeric: tabular-nums; }
+.empty-note { color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>PS5 pick tracker · Twitch top 6</h1>
+
+  <section id="hero" aria-live="polite">
+    <div class="hero-label">Current pick</div>
+    <div class="hero-name" id="pick-name">Loading…</div>
+    <div class="sub" id="pick-meta"></div>
+  </section>
+
+  <section>
+    <h2>Twitch top 6 right now</h2>
+    <ol class="top" id="now-list"></ol>
+    <div class="muted" id="now-time" style="font-size:13px;margin-top:8px"></div>
+  </section>
+
+  <div class="filters" role="group" aria-label="Time range">
+    <button data-range="1">Last 24 hours</button>
+    <button data-range="7" aria-pressed="true">Last 7 days</button>
+    <button data-range="30">Last 30 days</button>
+    <button data-range="0">All</button>
+  </div>
+
+  <section>
+    <h2>Top 6 history</h2>
+    <div class="legend">
+      <span><i style="background:var(--rank-1)"></i>Rank 1</span>
+      <span><i style="background:var(--rank-2)"></i>Rank 2–3</span>
+      <span><i style="background:var(--rank-3)"></i>Rank 4–6</span>
+      <span><i style="background:var(--empty);outline:1px solid var(--axis)"></i>Not in top 6</span>
+      <span><b style="color:var(--good)">✓</b>Meets your rules</span>
+    </div>
+    <div class="heat" id="heat"></div>
+  </section>
+
+  <section>
+    <h2>Pick timeline</h2>
+    <div class="table-wrap"><table id="pick-table">
+      <thead><tr><th>Game</th><th>From</th><th>To</th><th>Held for</th></tr></thead><tbody></tbody>
+    </table></div>
+  </section>
+
+  <section>
+    <h2>Every category seen in this range</h2>
+    <div class="table-wrap"><table id="games-table">
+      <thead><tr><th>Category</th><th>Best rank</th><th>Time in top 6</th><th>First seen</th><th>Last seen</th><th>Status</th></tr></thead><tbody></tbody>
+    </table></div>
+  </section>
+</main>
+<div id="tip" role="tooltip"></div>
+
+<script>
+let DATA = null;
+let rangeDays = 7;
+const MAX_BINS = 240;
+
+const fmt = new Intl.DateTimeFormat(undefined, { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" });
+const fmtDay = new Intl.DateTimeFormat(undefined, { month: "short", day: "numeric" });
+const fmtTime = new Intl.DateTimeFormat(undefined, { weekday: "short", hour: "2-digit", minute: "2-digit" });
+const el = (tag, text, cls) => { const n = document.createElement(tag); if (text != null) n.textContent = text; if (cls) n.className = cls; return n; };
+
+function dur(ms) {
+  const h = Math.round(ms / 36e5);
+  if (h < 1) return "under 1 h";
+  if (h < 48) return h + " h";
+  return Math.round(h / 24) + " days";
+}
+function ago(date) { return dur(Date.now() - date) + " ago"; }
+function tier(rank) { return rank === 1 ? "var(--rank-1)" : rank <= 3 ? "var(--rank-2)" : "var(--rank-3)"; }
+
+function latestStatus(id) {
+  // Most recent rule check for this category, from the newest snapshot it appears in.
+  for (let i = DATA.snapshots.length - 1; i >= 0; i--) {
+    const e = DATA.snapshots[i].top.find(x => x.id === id);
+    if (e) return e;
+  }
+  return null;
+}
+
+function renderPick() {
+  const p = DATA.pick;
+  const name = document.getElementById("pick-name");
+  const meta = document.getElementById("pick-meta");
+  meta.replaceChildren();
+  if (!p) { name.textContent = "Nothing yet"; meta.textContent = "No category in the top 6 has met your rules so far."; return; }
+  name.textContent = p.name;
+  meta.append(el("div", "Since " + fmt.format(new Date(p.since)) + " (" + ago(new Date(p.since)) + ")"));
+  meta.append(el("div", p.why));
+  const a = el("a", "Search PlayStation Store →");
+  a.href = "https://store.playstation.com/search/" + encodeURIComponent(p.name);
+  a.target = "_blank"; a.rel = "noopener";
+  meta.append(a);
+}
+
+function renderNow() {
+  const list = document.getElementById("now-list");
+  list.replaceChildren();
+  const last = DATA.snapshots[DATA.snapshots.length - 1];
+  if (!last) { list.append(el("li", "No snapshots yet.", "empty-note")); return; }
+  last.top.forEach((e, i) => {
+    const li = el("li");
+    li.append(el("span", "#" + (i + 1), "rank"), el("span", e.name));
+    li.append(el("span", (e.q ? "✓ Meets your rules · " : "✗ ") + e.why, "status" + (e.q ? " yes" : "")));
+    list.append(li);
+  });
+  document.getElementById("now-time").textContent = "Checked " + fmt.format(new Date(last.t)) + " · " + ago(new Date(last.t));
+}
+
+function inRange() {
+  const snaps = DATA.snapshots;
+  if (!snaps.length) return [];
+  const end = new Date(snaps[snaps.length - 1].t).getTime();
+  const start = rangeDays ? end - rangeDays * 864e5 : new Date(snaps[0].t).getTime();
+  return snaps.filter(s => new Date(s.t).getTime() >= start).map(s => ({ ...s, ms: new Date(s.t).getTime() }));
+}
+
+function renderHeat(snaps) {
+  const heat = document.getElementById("heat");
+  heat.replaceChildren();
+  if (!snaps.length) { heat.append(el("div", "No history yet. It fills in as the tracker runs.", "empty-note")); return; }
+
+  const start = rangeDays ? snaps[snaps.length - 1].ms - rangeDays * 864e5 : snaps[0].ms;
+  const end = snaps[snaps.length - 1].ms;
+  const span = Math.max(end - start, 1);
+  const bins = Math.max(1, Math.min(MAX_BINS, snaps.length));
+  const binOf = ms => Math.min(bins - 1, Math.floor((ms - start) / span * bins));
+
+  // best rank per category per bin
+  const rows = new Map();
+  for (const s of snaps) {
+    const b = binOf(s.ms);
+    s.top.forEach((e, i) => {
+      if (!rows.has(e.id)) rows.set(e.id, { id: e.id, name: e.name, cells: new Array(bins).fill(0), count: 0 });
+      const r = rows.get(e.id);
+      r.count++;
+      if (!r.cells[b] || i + 1 < r.cells[b]) r.cells[b] = i + 1;
+    });
+  }
+  const sorted = [...rows.values()].sort((a, b) => b.count - a.count);
+  const binMs = span / bins;
+  const tip = document.getElementById("tip");
+
+  for (const r of sorted) {
+    const status = latestStatus(r.id);
+    const label = el("div", null, "label");
+    if (status && status.q) label.append(el("span", "✓", "ok"));
+    label.append(document.createTextNode(r.name));
+    label.title = r.name;
+
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("viewBox", `0 0 ${bins} 1`);
+    svg.setAttribute("preserveAspectRatio", "none");
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", `${r.name}: in the top 6 for ${r.count} checks in this range`);
+    r.cells.forEach((rank, i) => {
+      if (!rank) return;
+      const rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+      rect.setAttribute("x", i); rect.setAttribute("y", 0);
+      rect.setAttribute("width", 1.02); rect.setAttribute("height", 1);
+      rect.setAttribute("fill", tier(rank));
+      svg.append(rect);
+    });
+    svg.addEventListener("pointermove", ev => {
+      const box = svg.getBoundingClientRect();
+      const i = Math.min(bins - 1, Math.max(0, Math.floor((ev.clientX - box.left) / box.width * bins)));
+      const rank = r.cells[i];
+      const t0 = new Date(start + i * binMs), t1 = new Date(start + (i + 1) * binMs);
+      tip.replaceChildren(el("strong", rank ? "Rank #" + rank : "Not in top 6"), el("div", r.name),
+        el("div", bins === snaps.length && binMs < 36e5 ? fmt.format(t0) : fmt.format(t0) + " – " + fmt.format(t1), "muted"));
+      tip.style.display = "block";
+      const x = Math.min(ev.clientX + 14, window.innerWidth - tip.offsetWidth - 8);
+      tip.style.left = x + "px"; tip.style.top = (ev.clientY + 14) + "px";
+    });
+    svg.addEventListener("pointerleave", () => { tip.style.display = "none"; });
+    heat.append(label, svg);
+  }
+  const axis = el("div", null, "axis");
+  const tick = span > 2 * 864e5 ? fmtDay : fmtTime;
+  axis.append(el("span", tick.format(new Date(start))), el("span", tick.format(new Date(start + span / 2))), el("span", tick.format(new Date(end))));
+  heat.append(el("div", null, "spacer"), axis);
+}
+
+function renderPickTable(snaps) {
+  const tbody = document.querySelector("#pick-table tbody");
+  tbody.replaceChildren();
+  const startMs = snaps.length ? snaps[0].ms : 0;
+  const hist = DATA.pick_history.filter(h => !h.to || new Date(h.to).getTime() >= startMs).reverse();
+  if (!hist.length) { const tr = el("tr"); const td = el("td", "No pick yet.", "empty-note"); td.colSpan = 4; tr.append(td); tbody.append(tr); return; }
+  for (const h of hist) {
+    const from = new Date(h.from), to = h.to ? new Date(h.to) : null;
+    const tr = el("tr");
+    tr.append(el("td", h.name), el("td", fmt.format(from), "num"),
+      el("td", to ? fmt.format(to) : "now (current)", "num"), el("td", dur((to || new Date()) - from), "num"));
+    tbody.append(tr);
+  }
+}
+
+function renderGamesTable(snaps) {
+  const tbody = document.querySelector("#games-table tbody");
+  tbody.replaceChildren();
+  const stats = new Map();
+  const interval = snaps.length > 1 ? (snaps[snaps.length - 1].ms - snaps[0].ms) / (snaps.length - 1) : 30 * 6e4;
+  for (const s of snaps) s.top.forEach((e, i) => {
+    const g = stats.get(e.id) || { name: e.name, best: 99, n: 0, first: s.ms, last: s.ms };
+    g.best = Math.min(g.best, i + 1); g.n++; g.last = s.ms; g.name = e.name;
+    stats.set(e.id, g);
+  });
+  const rows = [...stats.entries()].sort((a, b) => a[1].best - b[1].best || b[1].n - a[1].n);
+  if (!rows.length) { const tr = el("tr"); const td = el("td", "No data in this range.", "empty-note"); td.colSpan = 6; tr.append(td); tbody.append(tr); return; }
+  for (const [id, g] of rows) {
+    const st = latestStatus(id);
+    const tr = el("tr");
+    tr.append(el("td", g.name), el("td", "#" + g.best, "num"), el("td", dur(g.n * interval), "num"),
+      el("td", fmt.format(new Date(g.first)), "num"), el("td", fmt.format(new Date(g.last)), "num"));
+    const td = el("td", st ? (st.q ? "✓ " : "✗ ") + st.why : "");
+    if (st && st.q) td.style.color = "var(--good)";
+    tr.append(td);
+    tbody.append(tr);
+  }
+}
+
+function renderRange() {
+  if (!DATA) return;
+  const snaps = inRange();
+  renderHeat(snaps);
+  renderPickTable(snaps);
+  renderGamesTable(snaps);
+}
+
+document.querySelectorAll(".filters button").forEach(btn => btn.addEventListener("click", () => {
+  document.querySelectorAll(".filters button").forEach(b => b.setAttribute("aria-pressed", String(b === btn)));
+  rangeDays = Number(btn.dataset.range);
+  try { localStorage.setItem("range", btn.dataset.range); } catch (e) {}
+  renderRange();
+}));
+try {
+  const saved = localStorage.getItem("range");
+  const btn = saved && document.querySelector(`.filters button[data-range="${saved}"]`);
+  if (btn) btn.click();
+} catch (e) {}
+
+fetch("data.json", { cache: "no-store" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => { DATA = d; renderPick(); renderNow(); renderRange(); })
+  .catch(() => { document.getElementById("pick-name").textContent = "No data yet"; document.getElementById("pick-meta").textContent = "The tracker hasn't run yet, or data.json is missing."; });
+</script>
+</body>
+</html>
