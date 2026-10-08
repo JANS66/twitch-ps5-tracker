@@ -1,0 +1,107 @@
+{
+ "generated": "2026-10-08T16:57:07Z",
+ "top_n": 6,
+ "pick": null,
+ "pick_history": [],
+ "games": {
+  "509658": {
+   "name": "Just Chatting",
+   "igdb_id": "",
+   "is_game": false,
+   "checked_at": "2026-10-08T16:57:07Z"
+  },
+  "464339927": {
+   "name": "ARC Raiders",
+   "igdb_id": "185258",
+   "is_game": true,
+   "on_ps5": true,
+   "first_release": 1761782400,
+   "ps5_release": 1761782400,
+   "free": false,
+   "free_source": "Steam says paid",
+   "checked_at": "2026-10-08T16:57:07Z"
+  },
+  "29595": {
+   "name": "Dota 2",
+   "igdb_id": "",
+   "is_game": false,
+   "checked_at": "2026-10-08T16:57:07Z"
+  },
+  "21779": {
+   "name": "League of Legends",
+   "igdb_id": "115",
+   "is_game": true,
+   "on_ps5": false,
+   "first_release": 1256601600,
+   "ps5_release": null,
+   "free": true,
+   "free_source": "IGDB tags it free-to-play",
+   "checked_at": "2026-10-08T16:57:07Z"
+  },
+  "771448419": {
+   "name": "AION 2",
+   "igdb_id": "117297",
+   "is_game": true,
+   "on_ps5": false,
+   "first_release": 1763424000,
+   "ps5_release": null,
+   "free": true,
+   "free_source": "Steam says free",
+   "checked_at": "2026-10-08T16:57:07Z"
+  },
+  "27471": {
+   "name": "Minecraft",
+   "igdb_id": "135400",
+   "is_game": true,
+   "on_ps5": true,
+   "first_release": 1482105600,
+   "ps5_release": 1718841600,
+   "free": false,
+   "free_source": "no free-to-play signal found",
+   "checked_at": "2026-10-08T16:57:07Z"
+  }
+ },
+ "snapshots": [
+  {
+   "t": "2026-10-08T16:57:07Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "464339927",
+     "name": "ARC Raiders",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    }
+   ]
+  }
+ ]
+}
