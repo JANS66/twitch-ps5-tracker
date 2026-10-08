@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T16:57:07Z",
+ "generated": "2026-10-08T16:58:22Z",
  "top_n": 6,
  "pick": null,
  "pick_history": [],
@@ -19,12 +19,6 @@
    "ps5_release": 1761782400,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-08T16:57:07Z"
-  },
-  "29595": {
-   "name": "Dota 2",
-   "igdb_id": "",
-   "is_game": false,
    "checked_at": "2026-10-08T16:57:07Z"
   },
   "21779": {
@@ -59,6 +53,17 @@
    "free": false,
    "free_source": "no free-to-play signal found",
    "checked_at": "2026-10-08T16:57:07Z"
+  },
+  "29595": {
+   "name": "Dota 2",
+   "igdb_id": "",
+   "is_game": true,
+   "on_ps5": false,
+   "first_release": 1373328000,
+   "ps5_release": null,
+   "free": true,
+   "free_source": "IGDB tags it free-to-play",
+   "checked_at": "2026-10-08T16:58:22Z"
   }
  },
  "snapshots": [
@@ -82,6 +87,47 @@
      "name": "Dota 2",
      "q": false,
      "why": "not a game"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-08T16:58:22Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "464339927",
+     "name": "ARC Raiders",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5"
     },
     {
      "id": "21779",
