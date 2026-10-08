@@ -59,5 +59,16 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-08T16:58:22Z"
+ },
+ "32982": {
+  "name": "Grand Theft Auto V",
+  "igdb_id": "1020",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1379376000,
+  "ps5_release": 1741996800,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-08T17:11:23Z"
  }
 }
