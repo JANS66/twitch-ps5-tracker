@@ -109,5 +109,16 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-10-09T08:15:35Z"
+ },
+ "32399": {
+  "name": "Counter-Strike",
+  "igdb_id": "",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1069113600,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-10-09T15:25:50Z"
  }
 }

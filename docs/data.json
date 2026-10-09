@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T08:15:35Z",
+ "generated": "2026-10-09T15:25:50Z",
  "top_n": 6,
  "pick": null,
  "pick_history": [],
@@ -114,6 +114,17 @@
    "free": false,
    "free_source": "no free-to-play signal found",
    "checked_at": "2026-10-09T08:15:35Z"
+  },
+  "32399": {
+   "name": "Counter-Strike",
+   "igdb_id": "",
+   "is_game": true,
+   "on_ps5": false,
+   "first_release": 1069113600,
+   "ps5_release": null,
+   "free": false,
+   "free_source": "no free-to-play signal found",
+   "checked_at": "2026-10-09T15:25:50Z"
   }
  },
  "snapshots": [
@@ -352,6 +363,47 @@
     {
      "id": "18122",
      "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-09T15:25:50Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
      "q": false,
      "why": "not on PS5"
     },
