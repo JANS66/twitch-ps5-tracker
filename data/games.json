@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-08T16:57:07Z"
+  "checked_at": "2026-10-09T20:12:26Z"
  },
  "464339927": {
   "name": "ARC Raiders",
@@ -36,7 +36,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "Steam says free",
-  "checked_at": "2026-10-08T16:57:07Z"
+  "checked_at": "2026-10-09T20:12:26Z"
  },
  "27471": {
   "name": "Minecraft",
@@ -58,7 +58,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-08T16:58:22Z"
+  "checked_at": "2026-10-09T20:12:26Z"
  },
  "32982": {
   "name": "Grand Theft Auto V",
@@ -69,7 +69,7 @@
   "ps5_release": 1741996800,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-10-08T17:11:23Z"
+  "checked_at": "2026-10-09T20:12:26Z"
  },
  "518203": {
   "name": "Sports",
@@ -120,5 +120,22 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-10-09T15:25:50Z"
+ },
+ "123184772": {
+  "name": "EA Sports FC 27",
+  "igdb_id": "408819",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1790294400,
+  "ps5_release": 1789689600,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-09T20:12:26Z"
+ },
+ "509672": {
+  "name": "IRL",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-09T20:12:26Z"
  }
 }

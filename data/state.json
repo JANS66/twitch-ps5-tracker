@@ -1,4 +1,16 @@
 {
- "pick": null,
- "pick_history": []
+ "pick": {
+  "id": "123184772",
+  "name": "EA Sports FC 27",
+  "since": "2026-10-09T20:12:26Z",
+  "why": "PS5 · first release 2026-09-25 · paid (Steam says paid)"
+ },
+ "pick_history": [
+  {
+   "id": "123184772",
+   "name": "EA Sports FC 27",
+   "from": "2026-10-09T20:12:26Z",
+   "to": null
+  }
+ ]
 }

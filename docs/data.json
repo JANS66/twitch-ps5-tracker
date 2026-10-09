@@ -1,14 +1,26 @@
 {
- "generated": "2026-10-09T15:25:50Z",
+ "generated": "2026-10-09T20:12:26Z",
  "top_n": 6,
- "pick": null,
- "pick_history": [],
+ "pick": {
+  "id": "123184772",
+  "name": "EA Sports FC 27",
+  "since": "2026-10-09T20:12:26Z",
+  "why": "PS5 · first release 2026-09-25 · paid (Steam says paid)"
+ },
+ "pick_history": [
+  {
+   "id": "123184772",
+   "name": "EA Sports FC 27",
+   "from": "2026-10-09T20:12:26Z",
+   "to": null
+  }
+ ],
  "games": {
   "509658": {
    "name": "Just Chatting",
    "igdb_id": "",
    "is_game": false,
-   "checked_at": "2026-10-08T16:57:07Z"
+   "checked_at": "2026-10-09T20:12:26Z"
   },
   "464339927": {
    "name": "ARC Raiders",
@@ -41,7 +53,7 @@
    "ps5_release": null,
    "free": true,
    "free_source": "Steam says free",
-   "checked_at": "2026-10-08T16:57:07Z"
+   "checked_at": "2026-10-09T20:12:26Z"
   },
   "27471": {
    "name": "Minecraft",
@@ -63,7 +75,7 @@
    "ps5_release": null,
    "free": true,
    "free_source": "IGDB tags it free-to-play",
-   "checked_at": "2026-10-08T16:58:22Z"
+   "checked_at": "2026-10-09T20:12:26Z"
   },
   "32982": {
    "name": "Grand Theft Auto V",
@@ -74,7 +86,7 @@
    "ps5_release": 1741996800,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-08T17:11:23Z"
+   "checked_at": "2026-10-09T20:12:26Z"
   },
   "518203": {
    "name": "Sports",
@@ -125,6 +137,23 @@
    "free": false,
    "free_source": "no free-to-play signal found",
    "checked_at": "2026-10-09T15:25:50Z"
+  },
+  "123184772": {
+   "name": "EA Sports FC 27",
+   "igdb_id": "408819",
+   "is_game": true,
+   "on_ps5": true,
+   "first_release": 1790294400,
+   "ps5_release": 1789689600,
+   "free": false,
+   "free_source": "Steam says paid",
+   "checked_at": "2026-10-09T20:12:26Z"
+  },
+  "509672": {
+   "name": "IRL",
+   "igdb_id": "",
+   "is_game": false,
+   "checked_at": "2026-10-09T20:12:26Z"
   }
  },
  "snapshots": [
@@ -412,6 +441,47 @@
      "name": "Grand Theft Auto V",
      "q": false,
      "why": "not released in 2026"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-09T20:12:26Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "123184772",
+     "name": "EA Sports FC 27",
+     "q": true,
+     "why": "PS5 · first release 2026-09-25 · paid (Steam says paid)"
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "509672",
+     "name": "IRL",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
     }
    ]
   }
