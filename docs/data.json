@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T21:41:31Z",
+ "generated": "2026-10-09T01:36:08Z",
  "top_n": 6,
  "pick": null,
  "pick_history": [],
@@ -75,6 +75,23 @@
    "free": false,
    "free_source": "Steam says paid",
    "checked_at": "2026-10-08T17:11:23Z"
+  },
+  "518203": {
+   "name": "Sports",
+   "igdb_id": "",
+   "is_game": false,
+   "checked_at": "2026-10-09T01:36:08Z"
+  },
+  "33214": {
+   "name": "Fortnite",
+   "igdb_id": "1905",
+   "is_game": true,
+   "on_ps5": true,
+   "first_release": 1593388800,
+   "ps5_release": 1605139200,
+   "free": true,
+   "free_source": "IGDB tags it free-to-play",
+   "checked_at": "2026-10-09T01:36:08Z"
   }
  },
  "snapshots": [
@@ -239,6 +256,47 @@
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-09T01:36:08Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "518203",
+     "name": "Sports",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "464339927",
+     "name": "ARC Raiders",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "33214",
+     "name": "Fortnite",
+     "q": false,
+     "why": "not released in 2026"
     }
    ]
   }
