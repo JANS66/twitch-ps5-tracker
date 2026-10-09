@@ -87,5 +87,27 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-09T01:36:08Z"
+ },
+ "515025": {
+  "name": "Overwatch",
+  "igdb_id": "125174",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1691625600,
+  "ps5_release": 1664841600,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-10-09T08:15:35Z"
+ },
+ "18122": {
+  "name": "World of Warcraft",
+  "igdb_id": "123",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1101168000,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-10-09T08:15:35Z"
  }
 }
