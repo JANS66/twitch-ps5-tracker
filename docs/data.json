@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T12:48:44Z",
+ "generated": "2026-10-10T17:34:15Z",
  "top_n": 6,
  "pick": {
   "id": "123184772",
@@ -103,7 +103,7 @@
    "ps5_release": 1605139200,
    "free": true,
    "free_source": "IGDB tags it free-to-play",
-   "checked_at": "2026-10-09T01:36:08Z"
+   "checked_at": "2026-10-10T17:34:15Z"
   },
   "515025": {
    "name": "Overwatch",
@@ -136,7 +136,7 @@
    "ps5_release": null,
    "free": false,
    "free_source": "no free-to-play signal found",
-   "checked_at": "2026-10-09T15:25:50Z"
+   "checked_at": "2026-10-10T17:34:15Z"
   },
   "123184772": {
    "name": "EA Sports FC 27",
@@ -657,6 +657,47 @@
      "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-10T17:34:15Z",
+   "top": [
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "33214",
+     "name": "Fortnite",
+     "q": false,
+     "why": "not released in 2026"
     }
    ]
   }
