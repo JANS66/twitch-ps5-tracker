@@ -249,6 +249,8 @@ def run():
     games = load_json(GAMES, {})
     state = load_json(STATE, {"pick": None, "pick_history": []})
 
+    problems = []  # reported at the end; a non-zero exit makes GitHub email about the failed run
+
     client_id = env("TWITCH_CLIENT_ID")
     token = twitch_token(client_id, env("TWITCH_CLIENT_SECRET"))
     top = top_categories(client_id, token)
@@ -263,6 +265,7 @@ def run():
             igdb = igdb_games(client_id, token, ids)
         except Exception as e:
             print(f"IGDB lookup failed, using cached data where possible: {e}")
+            problems.append(f"IGDB lookup failed: {e}")
             igdb = None
         if igdb is not None:
             for c in stale:
@@ -274,6 +277,7 @@ def run():
                         game = igdb_by_name(client_id, token, c["name"])
                     except Exception as e:
                         print(f"IGDB name lookup failed for {c['name']}: {e}")
+                        problems.append(f"IGDB name lookup failed for {c['name']}: {e}")
                         continue
                 info = describe(c, game)
                 info["checked_at"] = iso(now)
@@ -299,11 +303,6 @@ def run():
     old = state.get("pick")
     if best and (old is None or old["id"] != best[1]["id"]):
         rank, e = best
-        for h in state["pick_history"]:
-            if h["to"] is None:
-                h["to"] = iso(now)
-        state["pick"] = {"id": e["id"], "name": e["name"], "since": iso(now), "why": e["why"]}
-        state["pick_history"].append({"id": e["id"], "name": e["name"], "from": iso(now), "to": None})
         others = [f"#{r} {html.escape(x['name'])}" for r, x in enumerate(entries, 1)
                   if x["q"] and x["id"] != e["id"]]
         msg = (f"🎮 <b>New pick: {html.escape(e['name'])}</b>\n"
@@ -313,12 +312,22 @@ def run():
             msg += f"\n\nReplaces: {html.escape(old['name'])}"
         if others:
             msg += "\nAlso qualifying: " + ", ".join(others)
-        telegram(msg)
-        print(f"Pick changed -> {e['name']}")
+        if telegram(msg):
+            for h in state["pick_history"]:
+                if h["to"] is None:
+                    h["to"] = iso(now)
+            state["pick"] = {"id": e["id"], "name": e["name"], "since": iso(now), "why": e["why"]}
+            state["pick_history"].append({"id": e["id"], "name": e["name"], "from": iso(now), "to": None})
+            print(f"Pick changed -> {e['name']}")
+        else:
+            # leave the old pick in place so the next run retries the alert
+            problems.append(f"Telegram alert for new pick {e['name']} was not sent")
 
     save_json(GAMES, games)
     save_json(STATE, state)
     write_page_data(now, games, state)
+    if problems:
+        sys.exit("Run finished with problems:\n- " + "\n- ".join(problems))
 
 
 def write_page_data(now, games, state):
