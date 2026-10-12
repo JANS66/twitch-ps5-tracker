@@ -36,7 +36,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "Steam says free",
-  "checked_at": "2026-10-11T00:08:15Z"
+  "checked_at": "2026-10-12T01:28:34Z"
  },
  "27471": {
   "name": "Minecraft",
@@ -86,7 +86,7 @@
   "ps5_release": 1605139200,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-10T17:34:15Z"
+  "checked_at": "2026-10-12T01:28:34Z"
  },
  "515025": {
   "name": "Overwatch",
@@ -108,7 +108,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-10-11T00:08:15Z"
+  "checked_at": "2026-10-12T01:28:34Z"
  },
  "32399": {
   "name": "Counter-Strike",
