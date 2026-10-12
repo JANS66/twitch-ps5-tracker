@@ -14,7 +14,7 @@
   "ps5_release": 1761782400,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-10-11T06:05:56Z"
+  "checked_at": "2026-10-12T07:48:38Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -25,7 +25,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-11T06:05:56Z"
+  "checked_at": "2026-10-12T07:48:38Z"
  },
  "771448419": {
   "name": "AION 2",
@@ -148,5 +148,16 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-11T13:12:16Z"
+ },
+ "271304": {
+  "name": "7 Days to Die",
+  "igdb_id": "5574",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1721865600,
+  "ps5_release": 1721865600,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-12T07:48:38Z"
  }
 }
