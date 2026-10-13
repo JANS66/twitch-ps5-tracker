@@ -1,17 +1,23 @@
 {
- "generated": "2026-10-13T12:23:41Z",
+ "generated": "2026-10-13T19:25:36Z",
  "top_n": 6,
  "pick": {
-  "id": "123184772",
-  "name": "EA Sports FC 27",
-  "since": "2026-10-09T20:12:26Z",
-  "why": "PS5 · first release 2026-09-25 · paid (Steam says paid)"
+  "id": "847310440",
+  "name": "Valor Mortis",
+  "since": "2026-10-13T19:25:36Z",
+  "why": "PS5 · first release 2026-10-13 · paid (Steam says paid)"
  },
  "pick_history": [
   {
    "id": "123184772",
    "name": "EA Sports FC 27",
    "from": "2026-10-09T20:12:26Z",
+   "to": "2026-10-13T19:25:36Z"
+  },
+  {
+   "id": "847310440",
+   "name": "Valor Mortis",
+   "from": "2026-10-13T19:25:36Z",
    "to": null
   }
  ],
@@ -64,7 +70,7 @@
    "ps5_release": 1718841600,
    "free": false,
    "free_source": "no free-to-play signal found",
-   "checked_at": "2026-10-12T17:12:12Z"
+   "checked_at": "2026-10-13T19:25:36Z"
   },
   "29595": {
    "name": "Dota 2",
@@ -176,6 +182,17 @@
    "free": false,
    "free_source": "Steam says paid",
    "checked_at": "2026-10-12T07:48:38Z"
+  },
+  "847310440": {
+   "name": "Valor Mortis",
+   "igdb_id": "361833",
+   "is_game": true,
+   "on_ps5": true,
+   "first_release": 1791849600,
+   "ps5_release": 1791849600,
+   "free": false,
+   "free_source": "Steam says paid",
+   "checked_at": "2026-10-13T19:25:36Z"
   }
  },
  "snapshots": [
@@ -1199,6 +1216,47 @@
     {
      "id": "32399",
      "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-13T19:25:36Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "847310440",
+     "name": "Valor Mortis",
+     "q": true,
+     "why": "PS5 · first release 2026-10-13 · paid (Steam says paid)"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
      "why": "not on PS5"
     }

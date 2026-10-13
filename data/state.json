@@ -1,15 +1,21 @@
 {
  "pick": {
-  "id": "123184772",
-  "name": "EA Sports FC 27",
-  "since": "2026-10-09T20:12:26Z",
-  "why": "PS5 · first release 2026-09-25 · paid (Steam says paid)"
+  "id": "847310440",
+  "name": "Valor Mortis",
+  "since": "2026-10-13T19:25:36Z",
+  "why": "PS5 · first release 2026-10-13 · paid (Steam says paid)"
  },
  "pick_history": [
   {
    "id": "123184772",
    "name": "EA Sports FC 27",
    "from": "2026-10-09T20:12:26Z",
+   "to": "2026-10-13T19:25:36Z"
+  },
+  {
+   "id": "847310440",
+   "name": "Valor Mortis",
+   "from": "2026-10-13T19:25:36Z",
    "to": null
   }
  ]

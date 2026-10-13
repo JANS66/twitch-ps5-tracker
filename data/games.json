@@ -47,7 +47,7 @@
   "ps5_release": 1718841600,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-10-12T17:12:12Z"
+  "checked_at": "2026-10-13T19:25:36Z"
  },
  "29595": {
   "name": "Dota 2",
@@ -159,5 +159,16 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-10-12T07:48:38Z"
+ },
+ "847310440": {
+  "name": "Valor Mortis",
+  "igdb_id": "361833",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1791849600,
+  "ps5_release": 1791849600,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-13T19:25:36Z"
  }
 }
