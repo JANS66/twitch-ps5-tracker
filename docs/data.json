@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T19:25:36Z",
+ "generated": "2026-10-13T23:21:43Z",
  "top_n": 6,
  "pick": {
   "id": "847310440",
@@ -1257,6 +1257,47 @@
     {
      "id": "21779",
      "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-13T23:21:43Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
      "q": false,
      "why": "not on PS5"
     }
