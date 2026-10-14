@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T02:02:29Z",
+ "generated": "2026-10-14T07:51:55Z",
  "top_n": 6,
  "pick": {
   "id": "847310440",
@@ -170,7 +170,7 @@
    "ps5_release": 1718323200,
    "free": true,
    "free_source": "IGDB tags it free-to-play",
-   "checked_at": "2026-10-11T13:12:16Z"
+   "checked_at": "2026-10-14T07:51:55Z"
   },
   "271304": {
    "name": "7 Days to Die",
@@ -1341,6 +1341,47 @@
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-14T07:51:55Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "516575",
+     "name": "VALORANT",
+     "q": false,
+     "why": "not released in 2026"
     }
    ]
   }
