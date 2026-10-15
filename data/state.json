@@ -1,9 +1,9 @@
 {
  "pick": {
-  "id": "847310440",
-  "name": "Valor Mortis",
-  "since": "2026-10-13T19:25:36Z",
-  "why": "PS5 · first release 2026-10-13 · paid (Steam says paid)"
+  "id": "743893402",
+  "name": "WARDOGS",
+  "since": "2026-10-15T14:35:32Z",
+  "why": "PS5 · first release 2026-09-10 · paid (Steam says paid)"
  },
  "pick_history": [
   {
@@ -16,6 +16,12 @@
    "id": "847310440",
    "name": "Valor Mortis",
    "from": "2026-10-13T19:25:36Z",
+   "to": "2026-10-15T14:35:32Z"
+  },
+  {
+   "id": "743893402",
+   "name": "WARDOGS",
+   "from": "2026-10-15T14:35:32Z",
    "to": null
   }
  ]
