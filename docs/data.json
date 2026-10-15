@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T21:51:25Z",
+ "generated": "2026-10-15T00:13:18Z",
  "top_n": 6,
  "pick": {
   "id": "847310440",
@@ -159,7 +159,7 @@
    "name": "IRL",
    "igdb_id": "",
    "is_game": false,
-   "checked_at": "2026-10-12T17:12:12Z"
+   "checked_at": "2026-10-15T00:13:18Z"
   },
   "516575": {
    "name": "VALORANT",
@@ -1505,6 +1505,47 @@
      "name": "AION 2",
      "q": false,
      "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-15T00:13:18Z",
+   "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "509672",
+     "name": "IRL",
+     "q": false,
+     "why": "not a game"
     }
    ]
   }
