@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T00:13:18Z",
+ "generated": "2026-10-15T04:57:11Z",
  "top_n": 6,
  "pick": {
   "id": "847310440",
@@ -26,7 +26,7 @@
    "name": "Just Chatting",
    "igdb_id": "",
    "is_game": false,
-   "checked_at": "2026-10-14T02:02:29Z"
+   "checked_at": "2026-10-15T04:57:11Z"
   },
   "464339927": {
    "name": "ARC Raiders",
@@ -37,7 +37,7 @@
    "ps5_release": 1761782400,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-14T02:02:29Z"
+   "checked_at": "2026-10-15T04:57:11Z"
   },
   "21779": {
    "name": "League of Legends",
@@ -92,7 +92,7 @@
    "ps5_release": 1741996800,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-14T02:02:29Z"
+   "checked_at": "2026-10-15T04:57:11Z"
   },
   "518203": {
    "name": "Sports",
@@ -1546,6 +1546,47 @@
      "name": "IRL",
      "q": false,
      "why": "not a game"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-15T04:57:11Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "464339927",
+     "name": "ARC Raiders",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "771448419",
+     "name": "AION 2",
+     "q": false,
+     "why": "not on PS5"
     }
    ]
   }
