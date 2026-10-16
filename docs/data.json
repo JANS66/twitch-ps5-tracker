@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T08:41:54Z",
+ "generated": "2026-10-16T13:40:22Z",
  "top_n": 6,
  "pick": {
   "id": "743893402",
@@ -98,7 +98,7 @@
    "ps5_release": 1741996800,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-15T04:57:11Z"
+   "checked_at": "2026-10-16T13:40:22Z"
   },
   "518203": {
    "name": "Sports",
@@ -1902,6 +1902,47 @@
      "name": "IRL",
      "q": false,
      "why": "not a game"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-16T13:40:22Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "516575",
+     "name": "VALORANT",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "509672",
+     "name": "IRL",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
     }
    ]
   }
