@@ -192,5 +192,11 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-10-16T03:55:55Z"
+ },
+ "24537180": {
+  "name": "The Streamer Awards",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-16T20:21:20Z"
  }
 }

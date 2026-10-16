@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T17:46:20Z",
+ "generated": "2026-10-16T20:21:20Z",
  "top_n": 6,
  "pick": {
   "id": "743893402",
@@ -221,6 +221,12 @@
    "free": false,
    "free_source": "Steam says paid",
    "checked_at": "2026-10-16T03:55:55Z"
+  },
+  "24537180": {
+   "name": "The Streamer Awards",
+   "igdb_id": "",
+   "is_game": false,
+   "checked_at": "2026-10-16T20:21:20Z"
   }
  },
  "snapshots": [
@@ -1984,6 +1990,47 @@
      "name": "Grand Theft Auto V",
      "q": false,
      "why": "not released in 2026"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-16T20:21:20Z",
+   "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "24537180",
+     "name": "The Streamer Awards",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5"
     }
    ]
   }
