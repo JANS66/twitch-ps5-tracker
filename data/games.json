@@ -14,7 +14,7 @@
   "ps5_release": 1761782400,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-10-17T05:24:46Z"
+  "checked_at": "2026-10-18T06:13:44Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -204,5 +204,16 @@
   "igdb_id": "",
   "is_game": false,
   "checked_at": "2026-10-17T00:59:22Z"
+ },
+ "499919202": {
+  "name": "Trash Day",
+  "igdb_id": "406477",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1791849600,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-18T06:13:44Z"
  }
 }
