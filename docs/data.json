@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T11:01:43Z",
+ "generated": "2026-10-19T17:37:45Z",
  "top_n": 6,
  "pick": {
   "id": "743893402",
@@ -32,7 +32,7 @@
    "name": "Just Chatting",
    "igdb_id": "",
    "is_game": false,
-   "checked_at": "2026-10-18T11:29:37Z"
+   "checked_at": "2026-10-19T17:37:45Z"
   },
   "464339927": {
    "name": "ARC Raiders",
@@ -165,7 +165,7 @@
    "name": "IRL",
    "igdb_id": "",
    "is_game": false,
-   "checked_at": "2026-10-18T11:29:37Z"
+   "checked_at": "2026-10-19T17:37:45Z"
   },
   "516575": {
    "name": "VALORANT",
@@ -2821,6 +2821,47 @@
      "name": "Minecraft",
      "q": false,
      "why": "not released in 2026"
+    },
+    {
+     "id": "509672",
+     "name": "IRL",
+     "q": false,
+     "why": "not a game"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-19T17:37:45Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5"
     },
     {
      "id": "509672",
