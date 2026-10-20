@@ -215,5 +215,27 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-10-18T06:13:44Z"
+ },
+ "1478650472": {
+  "name": "Call of Duty: Modern Warfare 4",
+  "igdb_id": "403310",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1792713600,
+  "ps5_release": 1787875200,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-20T15:30:41Z"
+ },
+ "459931": {
+  "name": "Old School RuneScape",
+  "igdb_id": "79824",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1361491200,
+  "ps5_release": null,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-10-20T15:30:41Z"
  }
 }

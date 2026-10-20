@@ -1,9 +1,9 @@
 {
  "pick": {
-  "id": "743893402",
-  "name": "WARDOGS",
-  "since": "2026-10-15T14:35:32Z",
-  "why": "PS5 · first release 2026-09-10 · paid (Steam says paid)"
+  "id": "1478650472",
+  "name": "Call of Duty: Modern Warfare 4",
+  "since": "2026-10-20T15:30:41Z",
+  "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)"
  },
  "pick_history": [
   {
@@ -22,6 +22,12 @@
    "id": "743893402",
    "name": "WARDOGS",
    "from": "2026-10-15T14:35:32Z",
+   "to": "2026-10-20T15:30:41Z"
+  },
+  {
+   "id": "1478650472",
+   "name": "Call of Duty: Modern Warfare 4",
+   "from": "2026-10-20T15:30:41Z",
    "to": null
   }
  ]
