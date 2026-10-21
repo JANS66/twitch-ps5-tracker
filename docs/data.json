@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T01:10:35Z",
+ "generated": "2026-10-21T06:14:21Z",
  "top_n": 6,
  "pick": {
   "id": "1478650472",
@@ -272,6 +272,17 @@
    "free": true,
    "free_source": "Steam says free",
    "checked_at": "2026-10-20T15:30:41Z"
+  },
+  "2132205352": {
+   "name": "Deadlock",
+   "igdb_id": "301298",
+   "is_game": true,
+   "on_ps5": false,
+   "first_release": null,
+   "ps5_release": null,
+   "free": false,
+   "free_source": "Steam says paid",
+   "checked_at": "2026-10-21T06:14:21Z"
   }
  },
  "snapshots": [
@@ -3222,6 +3233,47 @@
     {
      "id": "21779",
      "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-21T06:14:21Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "1478650472",
+     "name": "Call of Duty: Modern Warfare 4",
+     "q": true,
+     "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "2132205352",
+     "name": "Deadlock",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5"
     }

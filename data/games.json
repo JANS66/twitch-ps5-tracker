@@ -237,5 +237,16 @@
   "free": true,
   "free_source": "Steam says free",
   "checked_at": "2026-10-20T15:30:41Z"
+ },
+ "2132205352": {
+  "name": "Deadlock",
+  "igdb_id": "301298",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": null,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-21T06:14:21Z"
  }
 }
