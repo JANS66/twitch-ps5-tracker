@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T20:49:03Z",
+ "generated": "2026-10-21T23:50:44Z",
  "top_n": 6,
  "pick": {
   "id": "1478650472",
@@ -60,7 +60,7 @@
    "ps5_release": null,
    "free": true,
    "free_source": "IGDB tags it free-to-play",
-   "checked_at": "2026-10-20T22:52:04Z"
+   "checked_at": "2026-10-21T23:50:44Z"
   },
   "771448419": {
    "name": "AION 2",
@@ -104,7 +104,7 @@
    "ps5_release": 1741996800,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-20T22:52:04Z"
+   "checked_at": "2026-10-21T23:50:44Z"
   },
   "518203": {
    "name": "Sports",
@@ -260,7 +260,7 @@
    "ps5_release": 1787875200,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-20T15:30:41Z"
+   "checked_at": "2026-10-21T23:50:44Z"
   },
   "459931": {
    "name": "Old School RuneScape",
@@ -3405,6 +3405,47 @@
      "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-21T23:50:44Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "1478650472",
+     "name": "Call of Duty: Modern Warfare 4",
+     "q": true,
+     "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)"
     }
    ]
   }
