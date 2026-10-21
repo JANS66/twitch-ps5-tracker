@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-20T19:46:30Z"
+  "checked_at": "2026-10-21T20:49:03Z"
  },
  "464339927": {
   "name": "ARC Raiders",
@@ -248,5 +248,11 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-10-21T06:14:21Z"
+ },
+ "1422023940": {
+  "name": "QSMP",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-21T20:49:03Z"
  }
 }
