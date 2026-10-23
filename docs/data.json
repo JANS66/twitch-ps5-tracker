@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T00:18:21Z",
+ "generated": "2026-10-23T05:08:13Z",
  "top_n": 6,
  "pick": {
   "id": "1478650472",
@@ -49,7 +49,7 @@
    "ps5_release": 1761782400,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-21T12:08:15Z"
+   "checked_at": "2026-10-23T05:08:13Z"
   },
   "21779": {
    "name": "League of Legends",
@@ -260,7 +260,7 @@
    "ps5_release": 1787875200,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-21T23:50:44Z"
+   "checked_at": "2026-10-23T05:08:13Z"
   },
   "459931": {
    "name": "Old School RuneScape",
@@ -3692,6 +3692,47 @@
      "name": "Sports",
      "q": false,
      "why": "not a game"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-23T05:08:13Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "1478650472",
+     "name": "Call of Duty: Modern Warfare 4",
+     "q": true,
+     "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)"
+    },
+    {
+     "id": "464339927",
+     "name": "ARC Raiders",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
     }
    ]
   }
