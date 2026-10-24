@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T00:56:15Z",
+ "generated": "2026-10-24T05:20:25Z",
  "top_n": 6,
  "pick": {
   "id": "1478650472",
@@ -260,7 +260,7 @@
    "ps5_release": 1787875200,
    "free": false,
    "free_source": "Steam says paid",
-   "checked_at": "2026-10-23T05:08:13Z"
+   "checked_at": "2026-10-24T05:20:25Z"
   },
   "459931": {
    "name": "Old School RuneScape",
@@ -300,6 +300,17 @@
    "free": true,
    "free_source": "IGDB tags it free-to-play",
    "checked_at": "2026-10-24T00:56:15Z"
+  },
+  "722422729": {
+   "name": "$cam With Your Friends",
+   "igdb_id": "418295",
+   "is_game": true,
+   "on_ps5": false,
+   "first_release": 1792022400,
+   "ps5_release": null,
+   "free": false,
+   "free_source": "Steam says paid",
+   "checked_at": "2026-10-24T05:20:25Z"
   }
  },
  "snapshots": [
@@ -3947,6 +3958,47 @@
     {
      "id": "1264310518",
      "name": "Marvel Rivals",
+     "q": false,
+     "why": "not released in 2026"
+    }
+   ]
+  },
+  {
+   "t": "2026-10-24T05:20:25Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game"
+    },
+    {
+     "id": "1478650472",
+     "name": "Call of Duty: Modern Warfare 4",
+     "q": true,
+     "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)"
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026"
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "722422729",
+     "name": "$cam With Your Friends",
+     "q": false,
+     "why": "not on PS5"
+    },
+    {
+     "id": "516575",
+     "name": "VALORANT",
      "q": false,
      "why": "not released in 2026"
     }
