@@ -249,6 +249,13 @@ def run():
     games = load_json(GAMES, {})
     state = load_json(STATE, {"pick": None, "pick_history": []})
 
+    # Each calendar year starts from scratch: no pick, no history, no cache.
+    if state.setdefault("year", now.year) != now.year:
+        print(f"New year {now.year}: clearing last year's pick, history and cache")
+        state = {"year": now.year, "pick": None, "pick_history": []}
+        games = {}
+        SNAPSHOTS.unlink(missing_ok=True)
+
     problems = []  # reported at the end; a non-zero exit makes GitHub email about the failed run
 
     client_id = env("TWITCH_CLIENT_ID")
@@ -345,6 +352,14 @@ def write_page_data(now, state):
                 s = json.loads(line)
                 if parse_iso(s["t"]) >= cutoff:
                     snaps.append(s)
+    # The page only shows the latest top N and games that have been the pick;
+    # "r" keeps each entry's rank now that the others are dropped.
+    keep = {h["id"] for h in state.get("pick_history", [])}
+    if snaps:
+        keep |= {e["id"] for e in snaps[-1]["top"]}
+    snaps = [{"t": s["t"], "top": [{**e, "r": rank} for rank, e in enumerate(s["top"], 1)
+                                   if e["id"] in keep]}
+             for s in snaps]
     save_json(PAGE_DATA, {
         "generated": iso(now),
         "top_n": TOP_N,

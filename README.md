@@ -8,7 +8,11 @@ highest-ranked one that:
 - was **released this year**, counting either its first release on any platform or its PS5 release
 
 If the pick changes, you get a Telegram message. If nothing in the top 6 qualifies, the
-previous pick stays. Every check is saved, and a web page shows the history.
+previous pick stays. Every check is saved, and a web page shows the history of the current
+top 6 and of every game that has been the pick.
+
+On the first run of each new year (UTC), everything starts fresh: the pick, the pick timeline,
+the saved checks and the game cache are all cleared. Older data is still in the git history.
 
 ## One-time setup (about 10 minutes)
 

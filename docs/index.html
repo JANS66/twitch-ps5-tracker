@@ -142,7 +142,7 @@ td.num { font-variant-numeric: tabular-nums; }
   </section>
 
   <section>
-    <h2>Every category seen in this range</h2>
+    <h2>Current top 6 and your picks</h2>
     <div class="table-wrap"><table id="games-table">
       <thead><tr><th>Category</th><th>Best rank</th><th>Time in top 6</th><th>First seen</th><th>Last seen</th><th>Status</th></tr></thead><tbody></tbody>
     </table></div>
@@ -230,11 +230,11 @@ function renderHeat(snaps) {
   const rows = new Map();
   for (const s of snaps) {
     const b = binOf(s.ms);
-    s.top.forEach((e, i) => {
+    s.top.forEach(e => {
       if (!rows.has(e.id)) rows.set(e.id, { id: e.id, name: e.name, cells: new Array(bins).fill(0), count: 0 });
       const r = rows.get(e.id);
       r.count++;
-      if (!r.cells[b] || i + 1 < r.cells[b]) r.cells[b] = i + 1;
+      if (!r.cells[b] || e.r < r.cells[b]) r.cells[b] = e.r;
     });
   }
   const sorted = [...rows.values()].sort((a, b) => b.count - a.count);
@@ -301,9 +301,9 @@ function renderGamesTable(snaps) {
   tbody.replaceChildren();
   const stats = new Map();
   const interval = snaps.length > 1 ? (snaps[snaps.length - 1].ms - snaps[0].ms) / (snaps.length - 1) : 30 * 6e4;
-  for (const s of snaps) s.top.forEach((e, i) => {
+  for (const s of snaps) s.top.forEach(e => {
     const g = stats.get(e.id) || { name: e.name, best: 99, n: 0, first: s.ms, last: s.ms };
-    g.best = Math.min(g.best, i + 1); g.n++; g.last = s.ms; g.name = e.name;
+    g.best = Math.min(g.best, e.r); g.n++; g.last = s.ms; g.name = e.name;
     stats.set(e.id, g);
   });
   const rows = [...stats.entries()].sort((a, b) => a[1].best - b[1].best || b[1].n - a[1].n);
