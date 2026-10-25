@@ -25,7 +25,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-24T00:56:15Z"
+  "checked_at": "2026-10-25T05:02:46Z"
  },
  "771448419": {
   "name": "AION 2",
@@ -69,7 +69,7 @@
   "ps5_release": 1741996800,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-10-24T00:56:15Z"
+  "checked_at": "2026-10-25T05:02:46Z"
  },
  "518203": {
   "name": "Sports",
@@ -136,7 +136,7 @@
   "name": "IRL",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-19T17:37:45Z"
+  "checked_at": "2026-10-25T05:02:46Z"
  },
  "516575": {
   "name": "VALORANT",
@@ -276,5 +276,16 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-10-24T05:20:25Z"
+ },
+ "787971454": {
+  "name": "Oar'some Adventures",
+  "igdb_id": "411805",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": null,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-25T05:02:46Z"
  }
 }
