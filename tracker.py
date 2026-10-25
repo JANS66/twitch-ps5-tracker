@@ -323,14 +323,20 @@ def run():
             # leave the old pick in place so the next run retries the alert
             problems.append(f"Telegram alert for new pick {e['name']} was not sent")
 
+    # Forget categories that left the top N and whose cache has expired; they'd be re-fetched anyway.
+    top_ids = {c["id"] for c in top}
+    games = {gid: g for gid, g in games.items()
+             if gid in top_ids
+             or now - parse_iso(g["checked_at"]) <= timedelta(hours=CACHE_HOURS)}
+
     save_json(GAMES, games)
     save_json(STATE, state)
-    write_page_data(now, games, state)
+    write_page_data(now, state)
     if problems:
         sys.exit("Run finished with problems:\n- " + "\n- ".join(problems))
 
 
-def write_page_data(now, games, state):
+def write_page_data(now, state):
     cutoff = now - timedelta(days=PAGE_DAYS)
     snaps = []
     if SNAPSHOTS.exists():
@@ -344,7 +350,6 @@ def write_page_data(now, games, state):
         "top_n": TOP_N,
         "pick": state.get("pick"),
         "pick_history": state.get("pick_history", []),
-        "games": games,
         "snapshots": snaps,
     })
 

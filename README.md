@@ -52,7 +52,7 @@ You can edit the file directly on github.com. The next run uses the new settings
 - `tracker.py`: the script (Python standard library only)
 - `data/snapshots.jsonl`: one line per check, the full history
 - `data/state.json`: the current pick and the pick timeline
-- `data/games.json`: cached game info (refreshed daily)
+- `data/games.json`: cached game info for the current top 6 (refreshed daily; games that drop out are removed after a day)
 - `docs/index.html` + `docs/data.json`: the history page
 
 ## Notes
