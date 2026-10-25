@@ -25,7 +25,7 @@
   "ps5_release": 1718841600,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-10-24T19:37:20Z"
+  "checked_at": "2026-10-25T20:13:27Z"
  },
  "29595": {
   "name": "Dota 2",
@@ -131,5 +131,11 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-25T17:44:25Z"
+ },
+ "2023301131": {
+  "name": "CreatorSMP",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-25T20:13:27Z"
  }
 }
