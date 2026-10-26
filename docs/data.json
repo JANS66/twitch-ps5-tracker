@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T22:42:44Z",
+ "generated": "2026-10-26T00:55:03Z",
  "top_n": 6,
  "pick": {
   "id": "1478650472",
@@ -161,13 +161,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 2
-    },
-    {
-     "id": "518203",
-     "name": "Sports",
-     "q": false,
-     "why": "not a game",
-     "r": 3
     }
    ]
   },
@@ -2567,13 +2560,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "518203",
-     "name": "Sports",
-     "q": false,
-     "why": "not a game",
-     "r": 6
     }
    ]
   },
@@ -3302,12 +3288,52 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
+    }
+   ]
+  },
+  {
+   "t": "2026-10-26T00:55:03Z",
+   "top": [
     {
-     "id": "518203",
-     "name": "Sports",
+     "id": "509658",
+     "name": "Just Chatting",
      "q": false,
      "why": "not a game",
+     "r": 1
+    },
+    {
+     "id": "749097531",
+     "name": "NMS Boxing",
+     "q": false,
+     "why": "not a game",
+     "r": 2
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 3
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "1478650472",
+     "name": "Call of Duty: Modern Warfare 4",
+     "q": true,
+     "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
+     "r": 5
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026",
      "r": 6
     }
    ]

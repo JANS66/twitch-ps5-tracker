@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-25T00:25:49Z"
+  "checked_at": "2026-10-26T00:55:03Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -143,5 +143,11 @@
   "igdb_id": "",
   "is_game": false,
   "checked_at": "2026-10-25T22:42:44Z"
+ },
+ "749097531": {
+  "name": "NMS Boxing",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-26T00:55:03Z"
  }
 }
