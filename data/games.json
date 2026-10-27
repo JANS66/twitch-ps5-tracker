@@ -14,7 +14,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-26T05:40:16Z"
+  "checked_at": "2026-10-27T07:08:35Z"
  },
  "29595": {
   "name": "Dota 2",
@@ -36,7 +36,7 @@
   "ps5_release": 1741996800,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-10-26T05:40:16Z"
+  "checked_at": "2026-10-27T07:08:35Z"
  },
  "32399": {
   "name": "Counter-Strike",
@@ -98,5 +98,22 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-10-27T01:51:46Z"
+ },
+ "498482": {
+  "name": "Age of Empires IV",
+  "igdb_id": "55029",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1635379200,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-27T07:08:35Z"
+ },
+ "499973": {
+  "name": "Always On",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-27T07:08:35Z"
  }
 }

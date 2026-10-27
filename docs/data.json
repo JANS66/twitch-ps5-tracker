@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T01:51:46Z",
+ "generated": "2026-10-27T07:08:35Z",
  "top_n": 6,
  "pick": {
   "id": "1478650472",
@@ -140,13 +140,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -341,13 +334,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -502,13 +488,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -580,13 +559,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -606,13 +578,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -970,13 +935,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1003,13 +961,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1029,13 +980,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "21779",
@@ -1166,13 +1110,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1192,13 +1129,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "21779",
@@ -1270,13 +1200,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "32982",
@@ -1362,13 +1285,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1388,13 +1304,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "21779",
@@ -1421,13 +1330,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1485,13 +1387,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1511,13 +1406,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1563,13 +1451,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1596,13 +1477,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1700,13 +1574,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1733,13 +1600,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1903,13 +1763,6 @@
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "21779",
@@ -2240,13 +2093,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2443,13 +2289,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2556,13 +2395,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -2587,13 +2419,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "32982",
@@ -2634,13 +2459,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2674,13 +2492,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2851,13 +2662,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2877,13 +2681,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "32982",
@@ -3037,13 +2834,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -3068,13 +2858,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "32982",
@@ -3103,13 +2886,6 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -3124,17 +2900,57 @@
      "r": 4
     },
     {
-     "id": "1207887450",
-     "name": "CRACK",
+     "id": "1478650472",
+     "name": "Call of Duty: Modern Warfare 4",
+     "q": true,
+     "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-10-27T07:08:35Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
-     "r": 5
+     "r": 2
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 3
     },
     {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
+     "r": 4
+    },
+    {
+     "id": "498482",
+     "name": "Age of Empires IV",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
+     "id": "499973",
+     "name": "Always On",
+     "q": false,
+     "why": "not a game",
      "r": 6
     }
    ]
