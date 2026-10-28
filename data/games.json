@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-27T01:51:46Z"
+  "checked_at": "2026-10-28T01:56:52Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -59,23 +59,6 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-27T18:49:45Z"
- },
- "518203": {
-  "name": "Sports",
-  "igdb_id": "",
-  "is_game": false,
-  "checked_at": "2026-10-26T22:58:35Z"
- },
- "1207887450": {
-  "name": "CRACK",
-  "igdb_id": "420601",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1792972800,
-  "ps5_release": null,
-  "free": false,
-  "free_source": "Steam says paid",
-  "checked_at": "2026-10-27T01:51:46Z"
  },
  "498482": {
   "name": "Age of Empires IV",
