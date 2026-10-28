@@ -38,17 +38,6 @@
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-10-28T14:44:54Z"
  },
- "33214": {
-  "name": "Fortnite",
-  "igdb_id": "1905",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1593388800,
-  "ps5_release": 1605139200,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-27T18:49:45Z"
- },
  "27471": {
   "name": "Minecraft",
   "igdb_id": "135400",
@@ -59,17 +48,6 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-10-28T14:44:54Z"
- },
- "18122": {
-  "name": "World of Warcraft",
-  "igdb_id": "123",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1101168000,
-  "ps5_release": null,
-  "free": false,
-  "free_source": "no free-to-play signal found",
-  "checked_at": "2026-10-27T18:49:45Z"
  },
  "1478650472": {
   "name": "Call of Duty: Modern Warfare 4",
@@ -92,5 +70,16 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-28T07:54:29Z"
+ },
+ "771448419": {
+  "name": "AION 2",
+  "igdb_id": "117297",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1763424000,
+  "ps5_release": null,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-10-28T20:00:24Z"
  }
 }
