@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-28T01:56:52Z"
+  "checked_at": "2026-10-29T06:07:20Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -81,5 +81,27 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-29T00:07:50Z"
+ },
+ "306019403": {
+  "name": "Phantom Blade Ø",
+  "igdb_id": "250618",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1793232000,
+  "ps5_release": 1793232000,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-29T06:07:20Z"
+ },
+ "464339927": {
+  "name": "ARC Raiders",
+  "igdb_id": "185258",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1761782400,
+  "ps5_release": 1761782400,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-29T06:07:20Z"
  }
 }

@@ -1,9 +1,9 @@
 {
  "pick": {
-  "id": "1478650472",
-  "name": "Call of Duty: Modern Warfare 4",
-  "since": "2026-10-20T15:30:41Z",
-  "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)"
+  "id": "306019403",
+  "name": "Phantom Blade Ø",
+  "since": "2026-10-29T06:07:20Z",
+  "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)"
  },
  "pick_history": [
   {
@@ -28,6 +28,12 @@
    "id": "1478650472",
    "name": "Call of Duty: Modern Warfare 4",
    "from": "2026-10-20T15:30:41Z",
+   "to": "2026-10-29T06:07:20Z"
+  },
+  {
+   "id": "306019403",
+   "name": "Phantom Blade Ø",
+   "from": "2026-10-29T06:07:20Z",
    "to": null
   }
  ],
