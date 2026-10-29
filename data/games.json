@@ -38,17 +38,6 @@
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-29T13:27:17Z"
  },
- "771448419": {
-  "name": "AION 2",
-  "igdb_id": "117297",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1763424000,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "Steam says free",
-  "checked_at": "2026-10-28T20:00:24Z"
- },
  "516575": {
   "name": "VALORANT",
   "igdb_id": "126459",
@@ -92,5 +81,27 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-29T19:06:15Z"
+ },
+ "32982": {
+  "name": "Grand Theft Auto V",
+  "igdb_id": "1020",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1379376000,
+  "ps5_release": 1741996800,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-29T23:27:12Z"
+ },
+ "33214": {
+  "name": "Fortnite",
+  "igdb_id": "1905",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1593388800,
+  "ps5_release": 1605139200,
+  "free": true,
+  "free_source": "IGDB tags it free-to-play",
+  "checked_at": "2026-10-29T23:27:12Z"
  }
 }
