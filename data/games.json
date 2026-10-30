@@ -38,17 +38,6 @@
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-29T13:27:17Z"
  },
- "516575": {
-  "name": "VALORANT",
-  "igdb_id": "126459",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1591056000,
-  "ps5_release": 1718323200,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-29T00:07:50Z"
- },
  "306019403": {
   "name": "Phantom Blade Zero",
   "igdb_id": "250618",
@@ -103,5 +92,22 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-29T23:27:12Z"
+ },
+ "518203": {
+  "name": "Sports",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-30T02:46:46Z"
+ },
+ "491931": {
+  "name": "Escape from Tarkov",
+  "igdb_id": "15536",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1763164800,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-30T02:46:46Z"
  }
 }
