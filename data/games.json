@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-29T06:07:20Z"
+  "checked_at": "2026-10-30T09:22:28Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -47,18 +47,7 @@
   "ps5_release": 1793232000,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-10-29T06:07:20Z"
- },
- "464339927": {
-  "name": "ARC Raiders",
-  "igdb_id": "185258",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1761782400,
-  "ps5_release": 1761782400,
-  "free": false,
-  "free_source": "Steam says paid",
-  "checked_at": "2026-10-29T06:07:20Z"
+  "checked_at": "2026-10-30T09:22:28Z"
  },
  "511224": {
   "name": "Apex Legends",
@@ -109,5 +98,27 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-10-30T02:46:46Z"
+ },
+ "32399": {
+  "name": "Counter-Strike",
+  "igdb_id": "",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1069113600,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-10-30T09:22:28Z"
+ },
+ "771448419": {
+  "name": "AION 2",
+  "igdb_id": "117297",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1763424000,
+  "ps5_release": null,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-10-30T09:22:28Z"
  }
 }
