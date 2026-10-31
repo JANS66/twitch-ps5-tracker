@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T00:21:47Z",
+ "generated": "2026-10-31T06:02:16Z",
  "top_n": 6,
  "pick": {
   "id": "306019403",
@@ -146,13 +146,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -172,6 +165,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "515025",
+     "name": "Overwatch",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 4
     },
     {
      "id": "32982",
@@ -302,6 +302,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "515025",
+     "name": "Overwatch",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 5
     }
    ]
   },
@@ -314,13 +321,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "21779",
@@ -354,13 +354,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -387,6 +380,13 @@
      "q": false,
      "why": "not released in 2026",
      "r": 5
+    },
+    {
+     "id": "515025",
+     "name": "Overwatch",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 6
     }
    ]
   },
@@ -406,6 +406,13 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
+    },
+    {
+     "id": "515025",
+     "name": "Overwatch",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 4
     }
    ]
   },
@@ -432,6 +439,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "515025",
+     "name": "Overwatch",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 6
     }
    ]
   },
@@ -444,13 +458,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "21779",
@@ -498,6 +505,13 @@
      "r": 3
     },
     {
+     "id": "515025",
+     "name": "Overwatch",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 4
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -522,13 +536,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -600,13 +607,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -626,13 +626,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -756,13 +749,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -997,13 +983,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1030,13 +1009,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1058,13 +1030,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -1076,13 +1041,6 @@
   {
    "t": "2026-10-16T08:41:54Z",
    "top": [
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 1
-    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -1108,13 +1066,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
     },
     {
      "id": "21779",
@@ -1207,13 +1158,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1233,13 +1177,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "21779",
@@ -1280,13 +1217,6 @@
    "t": "2026-10-17T09:33:05Z",
    "top": [
     {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 1
-    },
-    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
@@ -1318,13 +1248,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "32982",
@@ -1410,13 +1333,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1436,13 +1352,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "21779",
@@ -1469,26 +1378,12 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
   {
    "t": "2026-10-18T06:13:44Z",
    "top": [
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 1
-    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -1521,13 +1416,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1547,13 +1435,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1573,13 +1454,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1625,13 +1499,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1660,11 +1527,11 @@
      "r": 4
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "515025",
+     "name": "Overwatch",
      "q": false,
      "why": "not released in 2026",
-     "r": 6
+     "r": 5
     }
    ]
   },
@@ -1710,6 +1577,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "515025",
+     "name": "Overwatch",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 3
     }
    ]
   },
@@ -1762,13 +1636,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1795,13 +1662,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1828,13 +1688,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1974,13 +1827,6 @@
      "r": 3
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2019,6 +1865,13 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
+    },
+    {
+     "id": "2132205352",
+     "name": "Deadlock",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2165,11 +2018,11 @@
      "r": 4
     },
     {
-     "id": "516575",
-     "name": "VALORANT",
+     "id": "2132205352",
+     "name": "Deadlock",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2189,13 +2042,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "1478650472",
@@ -2323,13 +2169,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2427,13 +2266,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 5
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2460,13 +2292,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "32982",
@@ -2507,13 +2332,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2547,13 +2365,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2587,13 +2398,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2667,13 +2471,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -2698,13 +2495,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "32982",
@@ -2745,13 +2535,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2785,13 +2568,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2858,13 +2634,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2900,11 +2669,11 @@
      "r": 4
     },
     {
-     "id": "516575",
-     "name": "VALORANT",
+     "id": "515025",
+     "name": "Overwatch",
      "q": false,
      "why": "not released in 2026",
-     "r": 5
+     "r": 6
     }
    ]
   },
@@ -2976,13 +2745,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -3002,13 +2764,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "32982",
@@ -3115,13 +2870,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3141,13 +2889,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "1478650472",
@@ -3176,13 +2917,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -3209,13 +2943,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -3240,13 +2967,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
     },
     {
      "id": "32982",
@@ -3320,13 +3040,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3339,13 +3052,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "21779",
@@ -3374,13 +3080,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -3407,13 +3106,6 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -3433,13 +3125,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3473,13 +3158,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 4
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -3558,13 +3236,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3624,13 +3295,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -3657,20 +3321,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "511224",
-     "name": "Apex Legends",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3704,20 +3354,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3737,13 +3373,6 @@
      "q": false,
      "why": "not released in 2026",
      "r": 2
-    },
-    {
-     "id": "511224",
-     "name": "Apex Legends",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "21779",
@@ -3824,13 +3453,6 @@
      "r": 2
     },
     {
-     "id": "516575",
-     "name": "VALORANT",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "32982",
      "name": "Grand Theft Auto V",
      "q": false,
@@ -3862,24 +3484,50 @@
      "q": false,
      "why": "not released in 2026",
      "r": 3
+    }
+   ]
+  },
+  {
+   "t": "2026-10-31T06:02:16Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 1
     },
     {
-     "id": "516575",
-     "name": "VALORANT",
+     "id": "32982",
+     "name": "Grand Theft Auto V",
      "q": false,
      "why": "not released in 2026",
+     "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "13389",
+     "name": "Age of Empires II",
+     "q": false,
+     "why": "not a game",
      "r": 4
     },
     {
-     "id": "511224",
-     "name": "Apex Legends",
+     "id": "2132205352",
+     "name": "Deadlock",
      "q": false,
-     "why": "not released in 2026",
+     "why": "not on PS5",
      "r": 5
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "515025",
+     "name": "Overwatch",
      "q": false,
      "why": "not released in 2026",
      "r": 6

@@ -60,23 +60,6 @@
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-31T00:21:47Z"
  },
- "518203": {
-  "name": "Sports",
-  "igdb_id": "",
-  "is_game": false,
-  "checked_at": "2026-10-30T02:46:46Z"
- },
- "491931": {
-  "name": "Escape from Tarkov",
-  "igdb_id": "15536",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1763164800,
-  "ps5_release": null,
-  "free": false,
-  "free_source": "Steam says paid",
-  "checked_at": "2026-10-30T02:46:46Z"
- },
  "32399": {
   "name": "Counter-Strike",
   "igdb_id": "",
@@ -120,5 +103,33 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-31T00:21:47Z"
+ },
+ "13389": {
+  "name": "Age of Empires II",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-31T06:02:16Z"
+ },
+ "2132205352": {
+  "name": "Deadlock",
+  "igdb_id": "301298",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": null,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-10-31T06:02:16Z"
+ },
+ "515025": {
+  "name": "Overwatch",
+  "igdb_id": "125174",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1691625600,
+  "ps5_release": 1664841600,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-10-31T06:02:16Z"
  }
 }
