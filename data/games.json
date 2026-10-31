@@ -14,7 +14,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-30T16:06:51Z"
+  "checked_at": "2026-10-31T17:27:42Z"
  },
  "29595": {
   "name": "Dota 2",
@@ -25,7 +25,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-30T16:06:51Z"
+  "checked_at": "2026-10-31T17:27:42Z"
  },
  "32982": {
   "name": "Grand Theft Auto V",
@@ -115,5 +115,16 @@
   "igdb_id": "",
   "is_game": false,
   "checked_at": "2026-10-31T12:53:24Z"
+ },
+ "27471": {
+  "name": "Minecraft",
+  "igdb_id": "135400",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1482105600,
+  "ps5_release": 1718841600,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-10-31T17:27:42Z"
  }
 }
