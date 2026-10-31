@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-10-30T09:22:28Z"
+  "checked_at": "2026-10-31T12:53:24Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -26,17 +26,6 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-30T16:06:51Z"
- },
- "306019403": {
-  "name": "Phantom Blade Zero",
-  "igdb_id": "250618",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1793232000,
-  "ps5_release": 1793232000,
-  "free": false,
-  "free_source": "Steam says paid",
-  "checked_at": "2026-10-30T09:22:28Z"
  },
  "32982": {
   "name": "Grand Theft Auto V",
@@ -69,18 +58,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-10-30T09:22:28Z"
- },
- "771448419": {
-  "name": "AION 2",
-  "igdb_id": "117297",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1763424000,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "Steam says free",
-  "checked_at": "2026-10-30T09:22:28Z"
+  "checked_at": "2026-10-31T12:53:24Z"
  },
  "516575": {
   "name": "VALORANT",
@@ -131,5 +109,11 @@
   "free": true,
   "free_source": "Steam says free",
   "checked_at": "2026-10-31T06:02:16Z"
+ },
+ "509672": {
+  "name": "IRL",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-10-31T12:53:24Z"
  }
 }
