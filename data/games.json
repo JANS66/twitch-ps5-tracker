@@ -47,7 +47,7 @@
   "ps5_release": 1741996800,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-10-29T23:27:12Z"
+  "checked_at": "2026-10-31T00:21:47Z"
  },
  "33214": {
   "name": "Fortnite",
@@ -58,7 +58,7 @@
   "ps5_release": 1605139200,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-10-29T23:27:12Z"
+  "checked_at": "2026-10-31T00:21:47Z"
  },
  "518203": {
   "name": "Sports",
@@ -109,5 +109,16 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-10-30T20:56:57Z"
+ },
+ "511224": {
+  "name": "Apex Legends",
+  "igdb_id": "114795",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1549238400,
+  "ps5_release": 1648512000,
+  "free": true,
+  "free_source": "IGDB tags it free-to-play",
+  "checked_at": "2026-10-31T00:21:47Z"
  }
 }
