@@ -27,17 +27,6 @@
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-02T23:57:26Z"
  },
- "306019403": {
-  "name": "Phantom Blade Zero",
-  "igdb_id": "250618",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1793232000,
-  "ps5_release": 1793232000,
-  "free": false,
-  "free_source": "Steam says paid",
-  "checked_at": "2026-11-02T00:55:51Z"
- },
  "32399": {
   "name": "Counter-Strike",
   "igdb_id": "",
