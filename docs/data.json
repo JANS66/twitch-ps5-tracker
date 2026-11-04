@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T19:57:19Z",
+ "generated": "2026-11-04T00:23:19Z",
  "top_n": 6,
  "pick": {
   "id": "306019403",
@@ -5234,6 +5234,53 @@
     {
      "id": "32982",
      "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 5
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-11-04T00:23:19Z",
+   "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 2
+    },
+    {
+     "id": "33214",
+     "name": "Fortnite",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 3
+    },
+    {
+     "id": "32982",
+     "name": "Grand Theft Auto V",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 4
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
      "q": false,
      "why": "not released in 2026",
      "r": 5
