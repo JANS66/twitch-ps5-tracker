@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-11-04T21:07:10Z"
+  "checked_at": "2026-11-05T22:44:12Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -27,17 +27,6 @@
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-05T01:34:27Z"
  },
- "32982": {
-  "name": "Grand Theft Auto V",
-  "igdb_id": "1020",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1379376000,
-  "ps5_release": 1741996800,
-  "free": false,
-  "free_source": "Steam says paid",
-  "checked_at": "2026-11-04T21:07:10Z"
- },
  "33214": {
   "name": "Fortnite",
   "igdb_id": "1905",
@@ -58,7 +47,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-04T21:07:10Z"
+  "checked_at": "2026-11-05T22:44:12Z"
  },
  "2067181260": {
   "name": "The Legend of Zelda: Ocarina of Time",
