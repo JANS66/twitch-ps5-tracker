@@ -81,5 +81,16 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-04T21:07:10Z"
+ },
+ "2067181260": {
+  "name": "The Legend of Zelda: Ocarina of Time",
+  "igdb_id": "405460",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1793836800,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-11-05T08:49:21Z"
  }
 }
