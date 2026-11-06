@@ -87,5 +87,16 @@
   "free": true,
   "free_source": "Steam says free",
   "checked_at": "2026-11-06T11:15:33Z"
+ },
+ "27471": {
+  "name": "Minecraft",
+  "igdb_id": "135400",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1482105600,
+  "ps5_release": 1718841600,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-11-06T18:10:22Z"
  }
 }
