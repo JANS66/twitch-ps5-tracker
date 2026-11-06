@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-11-05T22:44:12Z"
+  "checked_at": "2026-11-06T23:21:03Z"
  },
  "33214": {
   "name": "Fortnite",
@@ -25,7 +25,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-05T22:44:12Z"
+  "checked_at": "2026-11-06T23:21:03Z"
  },
  "2067181260": {
   "name": "The Legend of Zelda: Ocarina of Time",
@@ -98,5 +98,11 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-06T18:10:22Z"
+ },
+ "1017541397": {
+  "name": "ExileCon",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-11-06T23:21:03Z"
  }
 }
