@@ -5,28 +5,6 @@
   "is_game": false,
   "checked_at": "2026-11-05T22:44:12Z"
  },
- "21779": {
-  "name": "League of Legends",
-  "igdb_id": "115",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1256601600,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-05T01:34:27Z"
- },
- "27471": {
-  "name": "Minecraft",
-  "igdb_id": "135400",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1482105600,
-  "ps5_release": 1718841600,
-  "free": false,
-  "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-05T01:34:27Z"
- },
  "33214": {
   "name": "Fortnite",
   "igdb_id": "1905",
@@ -36,7 +14,7 @@
   "ps5_release": 1605139200,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-05T01:34:27Z"
+  "checked_at": "2026-11-06T03:00:31Z"
  },
  "18122": {
   "name": "World of Warcraft",
@@ -59,5 +37,22 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-05T08:49:21Z"
+ },
+ "518203": {
+  "name": "Sports",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-11-06T03:00:31Z"
+ },
+ "32982": {
+  "name": "Grand Theft Auto V",
+  "igdb_id": "1020",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1379376000,
+  "ps5_release": 1741996800,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-11-06T03:00:31Z"
  }
 }
