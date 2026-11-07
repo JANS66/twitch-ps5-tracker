@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T20:04:57Z",
+ "generated": "2026-11-07T23:44:58Z",
  "top_n": 6,
  "pick": {
   "id": "306019403",
@@ -4854,6 +4854,53 @@
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-11-07T23:44:58Z",
+   "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 2
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "33214",
+     "name": "Fortnite",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 4
+    },
+    {
+     "id": "1017541397",
+     "name": "ExileCon",
+     "q": false,
+     "why": "not a game",
+     "r": 5
+    },
+    {
+     "id": "27471",
+     "name": "Minecraft",
+     "q": false,
+     "why": "not released in 2026",
      "r": 6
     }
    ]
