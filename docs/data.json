@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T02:58:19Z",
+ "generated": "2026-11-07T09:41:46Z",
  "top_n": 6,
  "pick": {
   "id": "306019403",
@@ -125,13 +125,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -170,6 +163,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "21779",
@@ -286,6 +286,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -300,18 +307,18 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -324,6 +331,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "21779",
@@ -383,6 +397,13 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -400,6 +421,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -438,13 +466,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -483,6 +504,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -502,13 +530,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -521,13 +542,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -547,6 +561,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -651,6 +672,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -675,6 +703,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -760,6 +795,13 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -786,6 +828,13 @@
      "r": 3
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "743893402",
      "name": "WARDOGS",
      "q": true,
@@ -810,6 +859,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -831,11 +887,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -855,13 +911,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -874,13 +923,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "21779",
@@ -952,6 +994,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -971,6 +1020,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -992,13 +1048,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -1018,11 +1067,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "509663",
+     "name": "Special Events",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not a game",
+     "r": 2
     },
     {
      "id": "21779",
@@ -1094,13 +1143,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1127,6 +1169,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1153,6 +1202,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1179,13 +1235,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1205,13 +1254,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "21779",
@@ -1238,13 +1280,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1304,6 +1339,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -1316,13 +1358,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1351,11 +1386,11 @@
      "r": 3
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1382,6 +1417,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1401,13 +1443,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1434,13 +1469,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1486,6 +1514,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1505,6 +1540,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1524,13 +1566,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "18122",
@@ -1564,13 +1599,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -1609,6 +1637,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1628,6 +1663,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "1478650472",
@@ -1654,6 +1696,13 @@
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "21779",
@@ -1715,13 +1764,6 @@
      "r": 3
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -1760,6 +1802,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1779,6 +1828,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -1798,6 +1854,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "18122",
@@ -1824,6 +1887,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1930,6 +2000,13 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -1961,6 +2038,13 @@
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2006,13 +2090,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "21779",
@@ -2079,6 +2156,13 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2183,13 +2267,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2230,6 +2307,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2248,6 +2332,13 @@
   {
    "t": "2026-10-24T13:45:41Z",
    "top": [
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -2282,11 +2373,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -2308,11 +2399,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2339,13 +2430,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2372,13 +2456,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2471,6 +2548,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2495,6 +2579,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "21779",
@@ -2523,11 +2614,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -2547,13 +2638,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2646,6 +2730,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2679,11 +2770,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -2705,13 +2796,6 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -2729,13 +2813,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
     },
     {
      "id": "21779",
@@ -2795,6 +2872,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -2809,11 +2893,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "18122",
@@ -2842,13 +2926,6 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2873,13 +2950,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
     },
     {
      "id": "1478650472",
@@ -2932,6 +3002,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "21779",
@@ -3017,6 +3094,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -3081,13 +3165,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3128,6 +3205,13 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "306019403",
      "name": "Phantom Blade Zero",
      "q": true,
@@ -3145,6 +3229,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "21779",
@@ -3171,6 +3262,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -3190,13 +3288,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3228,6 +3319,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "21779",
@@ -3330,13 +3428,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -3356,13 +3447,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3382,13 +3466,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -3429,18 +3506,18 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -3460,6 +3537,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3486,13 +3570,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3507,11 +3584,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "21779",
@@ -3531,6 +3608,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "21779",
@@ -3559,11 +3643,11 @@
      "r": 3
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3585,11 +3669,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3604,18 +3688,18 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -3635,6 +3719,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3661,13 +3752,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -3687,13 +3771,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "21779",
@@ -3727,20 +3804,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3767,13 +3830,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -3800,20 +3856,6 @@
      "q": false,
      "why": "not a game",
      "r": 3
-    },
-    {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3833,20 +3875,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -3868,18 +3896,18 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -3908,11 +3936,11 @@
      "r": 4
     },
     {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5",
-     "r": 5
+     "r": 6
     }
    ]
   },
@@ -3946,13 +3974,6 @@
      "q": false,
      "why": "not a game",
      "r": 4
-    },
-    {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3981,15 +4002,48 @@
      "r": 3
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
+     "why": "not on PS5",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-11-07T09:41:46Z",
+   "top": [
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 2
+    },
+    {
+     "id": "1017541397",
+     "name": "ExileCon",
+     "q": false,
+     "why": "not a game",
+     "r": 3
+    },
+    {
+     "id": "509663",
+     "name": "Special Events",
+     "q": false,
+     "why": "not a game",
      "r": 4
     },
     {
-     "id": "2067181260",
-     "name": "The Legend of Zelda: Ocarina of Time",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5",
      "r": 5
