@@ -44,12 +44,6 @@
   "is_game": false,
   "checked_at": "2026-11-07T23:44:58Z"
  },
- "509663": {
-  "name": "Special Events",
-  "igdb_id": "",
-  "is_game": false,
-  "checked_at": "2026-11-07T09:41:46Z"
- },
  "32982": {
   "name": "Grand Theft Auto V",
   "igdb_id": "1020",
@@ -82,5 +76,27 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-08T03:43:38Z"
+ },
+ "771448419": {
+  "name": "AION 2",
+  "igdb_id": "117297",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1763424000,
+  "ps5_release": null,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-11-08T10:57:04Z"
+ },
+ "515025": {
+  "name": "Overwatch",
+  "igdb_id": "125174",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1691625600,
+  "ps5_release": 1664841600,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-11-08T10:57:04Z"
  }
 }
