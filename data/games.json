@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-11-07T23:44:58Z"
+  "checked_at": "2026-11-09T00:25:23Z"
  },
  "18122": {
   "name": "World of Warcraft",
@@ -14,7 +14,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-07T23:44:58Z"
+  "checked_at": "2026-11-09T00:25:23Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -37,12 +37,6 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-08T20:55:23Z"
- },
- "1017541397": {
-  "name": "ExileCon",
-  "igdb_id": "",
-  "is_game": false,
-  "checked_at": "2026-11-07T23:44:58Z"
  },
  "32982": {
   "name": "Grand Theft Auto V",
