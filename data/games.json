@@ -69,7 +69,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-08T03:43:38Z"
+  "checked_at": "2026-11-09T06:58:15Z"
  },
  "771448419": {
   "name": "AION 2",
@@ -103,5 +103,16 @@
   "free": false,
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-08T16:54:39Z"
+ },
+ "1753787976": {
+  "name": "ROB RUN",
+  "igdb_id": "416015",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1798675200,
+  "ps5_release": null,
+  "free": true,
+  "free_source": "Steam says free",
+  "checked_at": "2026-11-09T06:58:15Z"
  }
 }
