@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-11-09T00:25:23Z"
+  "checked_at": "2026-11-10T00:47:06Z"
  },
  "18122": {
   "name": "World of Warcraft",
@@ -14,7 +14,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-09T00:25:23Z"
+  "checked_at": "2026-11-10T00:47:06Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -26,17 +26,6 @@
   "free": true,
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-11-09T17:13:40Z"
- },
- "27471": {
-  "name": "Minecraft",
-  "igdb_id": "135400",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1482105600,
-  "ps5_release": 1718841600,
-  "free": false,
-  "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-08T20:55:23Z"
  },
  "32982": {
   "name": "Grand Theft Auto V",
@@ -58,7 +47,7 @@
   "ps5_release": 1605139200,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-08T20:55:23Z"
+  "checked_at": "2026-11-10T00:47:06Z"
  },
  "2067181260": {
   "name": "The Legend of Zelda: Ocarina of Time",
