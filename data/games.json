@@ -58,7 +58,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-09T06:58:15Z"
+  "checked_at": "2026-11-10T07:55:59Z"
  },
  "32399": {
   "name": "Counter-Strike",
@@ -80,6 +80,6 @@
   "ps5_release": null,
   "free": true,
   "free_source": "Steam says free",
-  "checked_at": "2026-11-09T06:58:15Z"
+  "checked_at": "2026-11-10T07:55:59Z"
  }
 }
