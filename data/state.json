@@ -1,9 +1,9 @@
 {
  "pick": {
-  "id": "306019403",
-  "name": "Phantom Blade Ø",
-  "since": "2026-10-29T06:07:20Z",
-  "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)"
+  "id": "743893402",
+  "name": "WARDOGS",
+  "since": "2026-11-13T01:18:01Z",
+  "why": "PS5 · first release 2026-09-10 · paid (Steam says paid)"
  },
  "pick_history": [
   {
@@ -34,6 +34,12 @@
    "id": "306019403",
    "name": "Phantom Blade Ø",
    "from": "2026-10-29T06:07:20Z",
+   "to": "2026-11-13T01:18:01Z"
+  },
+  {
+   "id": "743893402",
+   "name": "WARDOGS",
+   "from": "2026-11-13T01:18:01Z",
    "to": null
   }
  ],

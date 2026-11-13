@@ -16,17 +16,6 @@
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-12T03:58:31Z"
  },
- "21779": {
-  "name": "League of Legends",
-  "igdb_id": "115",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1256601600,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-11T23:14:29Z"
- },
  "32982": {
   "name": "Grand Theft Auto V",
   "igdb_id": "1020",
@@ -36,7 +25,7 @@
   "ps5_release": 1741996800,
   "free": false,
   "free_source": "Steam says paid",
-  "checked_at": "2026-11-11T23:14:29Z"
+  "checked_at": "2026-11-13T01:18:01Z"
  },
  "33214": {
   "name": "Fortnite",
@@ -82,17 +71,6 @@
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-11-12T12:18:53Z"
  },
- "1264310518": {
-  "name": "Marvel Rivals",
-  "igdb_id": "294041",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1733443200,
-  "ps5_release": 1733443200,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-11T23:14:29Z"
- },
  "1753787976": {
   "name": "ROB RUN",
   "igdb_id": "416015",
@@ -103,5 +81,22 @@
   "free": true,
   "free_source": "Steam says free",
   "checked_at": "2026-11-12T03:58:31Z"
+ },
+ "24537180": {
+  "name": "The Streamer Awards",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-11-13T01:18:01Z"
+ },
+ "743893402": {
+  "name": "WARDOGS",
+  "igdb_id": "388285",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1788998400,
+  "ps5_release": 1861833600,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-11-13T01:18:01Z"
  }
 }
