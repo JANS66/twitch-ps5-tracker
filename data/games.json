@@ -47,18 +47,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-12T12:18:53Z"
- },
- "516575": {
-  "name": "VALORANT",
-  "igdb_id": "126459",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1591056000,
-  "ps5_release": 1718323200,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-12T12:18:53Z"
+  "checked_at": "2026-11-13T16:37:57Z"
  },
  "24537180": {
   "name": "The Streamer Awards",
