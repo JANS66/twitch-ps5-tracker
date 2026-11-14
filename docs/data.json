@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:16:37Z",
+ "generated": "2026-11-14T20:50:39Z",
  "top_n": 6,
  "pick": {
   "id": "743893402",
@@ -1274,6 +1274,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "509663",
+     "name": "Special Events",
+     "q": false,
+     "why": "not a game",
+     "r": 2
     },
     {
      "id": "32982",
@@ -4804,6 +4811,13 @@
      "r": 2
     },
     {
+     "id": "509663",
+     "name": "Special Events",
+     "q": false,
+     "why": "not a game",
+     "r": 4
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -5657,13 +5671,6 @@
      "r": 4
     },
     {
-     "id": "29307",
-     "name": "Path of Exile",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
      "id": "33214",
      "name": "Fortnite",
      "q": false,
@@ -5688,13 +5695,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29307",
-     "name": "Path of Exile",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "32982",
@@ -5728,13 +5728,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29307",
-     "name": "Path of Exile",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "21779",
@@ -5777,10 +5770,50 @@
      "r": 4
     },
     {
-     "id": "29307",
-     "name": "Path of Exile",
+     "id": "32982",
+     "name": "Grand Theft Auto V",
      "q": false,
      "why": "not released in 2026",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-11-14T20:50:39Z",
+   "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 2
+    },
+    {
+     "id": "509663",
+     "name": "Special Events",
+     "q": false,
+     "why": "not a game",
+     "r": 3
+    },
+    {
+     "id": "33214",
+     "name": "Fortnite",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 4
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5",
      "r": 5
     },
     {
