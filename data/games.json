@@ -36,7 +36,7 @@
   "ps5_release": 1605139200,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-15T00:35:56Z"
+  "checked_at": "2026-11-16T06:58:31Z"
  },
  "1753787976": {
   "name": "ROB RUN",
@@ -98,5 +98,16 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-11-15T14:53:21Z"
+ },
+ "27471": {
+  "name": "Minecraft",
+  "igdb_id": "135400",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1482105600,
+  "ps5_release": 1718841600,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-11-16T06:58:31Z"
  }
 }
