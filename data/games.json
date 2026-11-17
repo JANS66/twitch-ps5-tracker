@@ -3,7 +3,7 @@
   "name": "Just Chatting",
   "igdb_id": "",
   "is_game": false,
-  "checked_at": "2026-11-16T16:49:37Z"
+  "checked_at": "2026-11-17T18:00:46Z"
  },
  "18122": {
   "name": "World of Warcraft",
@@ -14,7 +14,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-16T16:49:37Z"
+  "checked_at": "2026-11-17T18:00:46Z"
  },
  "21779": {
   "name": "League of Legends",
@@ -25,18 +25,7 @@
   "ps5_release": null,
   "free": true,
   "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-16T16:49:37Z"
- },
- "1753787976": {
-  "name": "ROB RUN",
-  "igdb_id": "416015",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1793750400,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "Steam says free",
-  "checked_at": "2026-11-16T16:49:37Z"
+  "checked_at": "2026-11-17T18:00:46Z"
  },
  "32399": {
   "name": "Counter-Strike",
@@ -47,18 +36,7 @@
   "ps5_release": null,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-16T16:49:37Z"
- },
- "29595": {
-  "name": "Dota 2",
-  "igdb_id": "",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1373328000,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-16T16:49:37Z"
+  "checked_at": "2026-11-17T18:00:46Z"
  },
  "32982": {
   "name": "Grand Theft Auto V",
@@ -87,5 +65,11 @@
   "igdb_id": "",
   "is_game": false,
   "checked_at": "2026-11-17T08:42:42Z"
+ },
+ "509672": {
+  "name": "IRL",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-11-17T18:00:46Z"
  }
 }
