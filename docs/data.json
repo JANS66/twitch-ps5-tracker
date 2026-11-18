@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T01:05:45Z",
+ "generated": "2026-11-18T08:45:35Z",
  "top_n": 6,
  "pick": {
   "id": "743893402",
@@ -55,6 +55,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -67,6 +74,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -81,11 +95,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -100,11 +114,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -117,20 +131,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -145,18 +145,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -171,11 +171,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -188,13 +188,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
     },
     {
      "id": "123184772",
@@ -216,11 +209,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -235,11 +228,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "18122",
@@ -261,6 +254,13 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -278,6 +278,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -292,18 +299,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -318,11 +318,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -335,13 +335,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "18122",
@@ -363,11 +356,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -380,6 +373,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -392,13 +392,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -413,11 +406,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -432,25 +425,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -463,6 +442,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -477,11 +463,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -496,18 +482,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -520,20 +499,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -546,6 +511,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -560,18 +532,18 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "847310440",
      "name": "Valor Mortis",
      "q": true,
      "why": "PS5 · first release 2026-10-13 · paid (Steam says paid)",
      "r": 5
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -586,11 +558,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -603,13 +575,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
     },
     {
      "id": "18122",
@@ -631,18 +596,18 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -657,11 +622,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -676,11 +641,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -688,18 +653,18 @@
    "t": "2026-10-14T21:51:25Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     },
     {
      "id": "18122",
@@ -714,18 +679,18 @@
    "t": "2026-10-15T00:13:18Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     }
    ]
   },
@@ -740,17 +705,24 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
   {
    "t": "2026-10-15T09:36:53Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -778,11 +750,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "743893402",
@@ -797,18 +769,18 @@
    "t": "2026-10-15T18:48:52Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -816,25 +788,18 @@
    "t": "2026-10-15T21:53:11Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -849,18 +814,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -875,18 +833,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -899,6 +850,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "18122",
@@ -920,11 +878,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -939,11 +897,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -951,18 +909,18 @@
    "t": "2026-10-16T20:21:20Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -977,18 +935,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "18122",
@@ -1010,18 +961,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "18122",
@@ -1043,11 +987,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1060,6 +1004,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -1074,18 +1025,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -1107,11 +1051,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -1133,17 +1077,24 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
   {
    "t": "2026-10-17T21:16:44Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -1157,20 +1108,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1192,18 +1129,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1223,20 +1153,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1249,6 +1165,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "18122",
@@ -1268,6 +1191,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -1282,18 +1212,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1315,17 +1245,24 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
   {
    "t": "2026-10-18T19:55:22Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -1339,13 +1276,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1365,20 +1295,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1400,18 +1316,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1426,11 +1335,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "18122",
@@ -1450,6 +1359,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -1464,11 +1380,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -1483,18 +1399,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "18122",
@@ -1516,13 +1425,6 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -1530,11 +1432,11 @@
      "r": 3
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1549,11 +1451,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1566,6 +1468,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -1578,6 +1487,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "1478650472",
@@ -1606,11 +1522,11 @@
      "r": 3
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1625,13 +1541,6 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -1644,6 +1553,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1658,13 +1574,6 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -1672,18 +1581,18 @@
      "r": 3
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1705,11 +1614,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -1724,11 +1633,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -1743,11 +1652,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "18122",
@@ -1769,11 +1678,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1788,11 +1697,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "18122",
@@ -1821,18 +1730,18 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 3
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1845,6 +1754,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "1478650472",
@@ -1866,18 +1782,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1892,18 +1808,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -1918,11 +1834,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "1478650472",
@@ -1951,18 +1867,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "18122",
@@ -1984,18 +1893,18 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2008,6 +1917,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "1478650472",
@@ -2029,18 +1945,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2048,6 +1964,13 @@
    "t": "2026-10-23T19:24:06Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
@@ -2060,13 +1983,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2074,18 +1990,18 @@
    "t": "2026-10-23T22:27:41Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "1478650472",
@@ -2100,6 +2016,13 @@
    "t": "2026-10-24T00:56:15Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
@@ -2112,20 +2035,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2147,11 +2056,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -2164,6 +2073,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "1478650472",
@@ -2185,11 +2101,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -2197,25 +2113,18 @@
    "t": "2026-10-24T17:07:48Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2223,25 +2132,18 @@
    "t": "2026-10-24T19:37:20Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2249,6 +2151,13 @@
    "t": "2026-10-24T22:09:59Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
@@ -2256,25 +2165,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2282,6 +2177,13 @@
    "t": "2026-10-25T00:25:49Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
@@ -2289,25 +2191,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2322,11 +2210,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "1478650472",
@@ -2355,11 +2243,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -2374,18 +2262,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -2398,6 +2286,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "1478650472",
@@ -2419,11 +2314,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -2431,18 +2326,18 @@
    "t": "2026-10-25T17:44:25Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -2450,25 +2345,18 @@
    "t": "2026-10-25T20:13:27Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2476,18 +2364,18 @@
    "t": "2026-10-25T22:42:44Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     },
     {
      "id": "1478650472",
@@ -2509,11 +2397,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "1478650472",
@@ -2535,11 +2423,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "1478650472",
@@ -2561,6 +2449,13 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -2573,25 +2468,18 @@
    "t": "2026-10-26T18:45:58Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2606,18 +2494,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "1478650472",
@@ -2639,18 +2520,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "1478650472",
@@ -2672,11 +2546,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "1478650472",
@@ -2696,6 +2570,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -2710,18 +2591,18 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2736,18 +2617,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "1478650472",
@@ -2769,25 +2643,18 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2802,18 +2669,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -2828,11 +2695,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -2847,11 +2714,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -2859,18 +2726,18 @@
    "t": "2026-10-29T00:07:50Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     }
    ]
   },
@@ -2885,18 +2752,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "306019403",
      "name": "Phantom Blade Ø",
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -2909,6 +2776,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "306019403",
@@ -2930,6 +2804,13 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "306019403",
      "name": "Phantom Blade Zero",
      "q": true,
@@ -2942,6 +2823,13 @@
    "t": "2026-10-29T23:27:12Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
@@ -2949,25 +2837,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "306019403",
      "name": "Phantom Blade Zero",
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2982,11 +2856,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "491931",
@@ -3008,6 +2882,13 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "306019403",
      "name": "Phantom Blade Zero",
      "q": true,
@@ -3027,11 +2908,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3039,18 +2920,18 @@
    "t": "2026-10-30T20:56:57Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -3058,25 +2939,18 @@
    "t": "2026-10-31T00:21:47Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3091,11 +2965,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3110,11 +2984,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3122,18 +2996,18 @@
    "t": "2026-10-31T17:27:42Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     }
    ]
   },
@@ -3141,18 +3015,18 @@
    "t": "2026-10-31T20:35:44Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -3160,18 +3034,18 @@
    "t": "2026-10-31T23:52:53Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     }
    ]
   },
@@ -3186,11 +3060,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -3205,18 +3079,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 2
     }
    ]
   },
@@ -3231,18 +3098,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -3257,18 +3117,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -3283,11 +3136,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "306019403",
@@ -3309,11 +3162,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3328,11 +3181,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3347,11 +3200,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 2
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "306019403",
@@ -3359,13 +3212,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3380,18 +3226,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3404,6 +3243,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3418,18 +3264,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3437,25 +3276,18 @@
    "t": "2026-11-04T00:23:19Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -3470,18 +3302,11 @@
      "r": 1
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -3496,11 +3321,11 @@
      "r": 1
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3522,18 +3347,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -3555,18 +3373,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3588,11 +3399,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3614,17 +3425,24 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
   {
    "t": "2026-11-05T22:44:12Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "18122",
      "name": "World of Warcraft",
@@ -3638,13 +3456,6 @@
      "q": false,
      "why": "not a game",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3664,20 +3475,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -3697,6 +3494,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -3716,12 +3520,26 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
   {
    "t": "2026-11-06T23:21:03Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "18122",
      "name": "World of Warcraft",
@@ -3756,11 +3574,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3780,6 +3598,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3801,11 +3626,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3827,17 +3652,24 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
   {
    "t": "2026-11-07T23:44:58Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -3851,13 +3683,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -3879,11 +3704,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -3903,6 +3728,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -3924,11 +3756,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -3950,24 +3782,24 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
   {
    "t": "2026-11-09T00:25:23Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -3981,20 +3813,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     }
    ]
   },
@@ -4014,6 +3832,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "1753787976",
@@ -4042,11 +3867,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -4068,18 +3893,11 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "1753787976",
@@ -4108,18 +3926,18 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "1753787976",
      "name": "ROB RUN",
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -4141,11 +3959,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -4167,18 +3985,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -4200,25 +4011,18 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "1753787976",
      "name": "ROB RUN",
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4238,6 +4042,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -4259,11 +4070,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -4285,18 +4096,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4323,20 +4127,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -4358,11 +4148,11 @@
      "r": 3
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -4384,18 +4174,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4415,20 +4198,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
     },
     {
      "id": "743893402",
@@ -4455,6 +4224,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -4476,11 +4252,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -4500,20 +4276,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -4540,20 +4302,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -4573,6 +4321,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -4587,25 +4342,18 @@
      "r": 1
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -4613,6 +4361,13 @@
    "t": "2026-11-14T20:50:39Z",
    "top": [
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
+    {
      "id": "509658",
      "name": "Just Chatting",
      "q": false,
@@ -4620,31 +4375,24 @@
      "r": 2
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
   {
    "t": "2026-11-15T00:35:56Z",
    "top": [
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -4660,25 +4408,11 @@
      "r": 3
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
-    },
-    {
      "id": "1753787976",
      "name": "ROB RUN",
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -4705,13 +4439,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -4733,11 +4460,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 6
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -4757,20 +4484,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 4
     }
    ]
   },
@@ -4783,13 +4496,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 2
     },
     {
      "id": "18122",
@@ -4806,11 +4512,11 @@
      "r": 4
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4832,18 +4538,18 @@
      "r": 2
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "1753787976",
      "name": "ROB RUN",
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "33214",
-     "name": "Fortnite",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -4870,6 +4576,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4891,13 +4604,6 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "1753787976",
      "name": "ROB RUN",
      "q": false,
@@ -4905,11 +4611,11 @@
      "r": 4
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4938,6 +4644,13 @@
      "r": 3
     },
     {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "491931",
      "name": "Escape from Tarkov",
      "q": false,
@@ -4964,11 +4677,11 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
-     "why": "not released in 2026",
-     "r": 3
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4990,13 +4703,6 @@
      "r": 2
     },
     {
-     "id": "32982",
-     "name": "Grand Theft Auto V",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
-    },
-    {
      "id": "1753787976",
      "name": "ROB RUN",
      "q": false,
@@ -5004,8 +4710,48 @@
      "r": 4
     },
     {
-     "id": "33214",
-     "name": "Fortnite",
+     "id": "491931",
+     "name": "Escape from Tarkov",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-11-18T08:45:35Z",
+   "top": [
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 1
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
+     "id": "1753787976",
+     "name": "ROB RUN",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "1867279146",
+     "name": "Grand Theft Auto VI",
      "q": false,
      "why": "not released in 2026",
      "r": 5
