@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T08:45:35Z",
+ "generated": "2026-11-18T17:42:59Z",
  "top_n": 6,
  "pick": {
   "id": "743893402",
@@ -57,6 +57,13 @@
      "r": 1
     },
     {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not a game",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -76,6 +83,13 @@
      "r": 1
     },
     {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -93,6 +107,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "21779",
@@ -171,11 +192,25 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -195,6 +230,13 @@
      "q": true,
      "why": "PS5 · first release 2026-09-25 · paid (Steam says paid)",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -280,11 +322,25 @@
      "r": 2
     },
     {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -297,6 +353,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "21779",
@@ -316,6 +379,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "21779",
@@ -375,6 +445,13 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -392,6 +469,20 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -468,6 +559,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -518,6 +616,20 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -563,6 +675,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -622,6 +741,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -646,6 +772,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -731,6 +864,20 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -757,6 +904,13 @@
      "r": 3
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "743893402",
      "name": "WARDOGS",
      "q": true,
@@ -781,6 +935,20 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -800,6 +968,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -902,6 +1077,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -921,6 +1103,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1030,6 +1219,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1056,6 +1252,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1082,6 +1285,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1212,6 +1422,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -1250,6 +1467,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1276,6 +1500,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1295,6 +1526,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1366,6 +1604,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -1385,6 +1630,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1475,6 +1727,20 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1494,6 +1760,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "1478650472",
@@ -1520,6 +1793,13 @@
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "21779",
@@ -1619,6 +1899,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1638,6 +1925,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -1657,6 +1951,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "18122",
@@ -1683,6 +1984,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -1763,6 +2071,13 @@
      "r": 2
     },
     {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -1787,6 +2102,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "1478650472",
@@ -1820,6 +2142,13 @@
      "q": true,
      "why": "PS5 · PS5 release 2026-08-28 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1926,11 +2255,25 @@
      "r": 2
     },
     {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -1957,6 +2300,13 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -2075,6 +2425,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2087,12 +2444,26 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
   {
    "t": "2026-10-24T13:45:41Z",
    "top": [
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -2106,6 +2477,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2125,6 +2503,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     }
    ]
   },
@@ -2144,6 +2529,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2288,11 +2680,25 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "1478650472",
@@ -2314,11 +2720,25 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2338,6 +2758,20 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2449,11 +2883,25 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "1478650472",
@@ -2480,6 +2928,20 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2577,6 +3039,20 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -2589,6 +3065,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
     },
     {
      "id": "18122",
@@ -2681,6 +3164,13 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2693,6 +3183,20 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "21779",
@@ -2719,6 +3223,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -2778,6 +3289,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -2790,6 +3308,13 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2861,13 +3386,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "491931",
-     "name": "Escape from Tarkov",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -2889,6 +3407,13 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
      "id": "306019403",
      "name": "Phantom Blade Zero",
      "q": true,
@@ -2908,11 +3433,25 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -2932,6 +3471,20 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -2984,6 +3537,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -3008,6 +3568,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3084,6 +3651,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3096,6 +3670,13 @@
      "q": false,
      "why": "not a game",
      "r": 1
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
     },
     {
      "id": "21779",
@@ -3162,6 +3743,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -3186,6 +3774,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3226,6 +3821,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -3245,11 +3847,25 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -3269,6 +3885,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3288,6 +3911,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3307,6 +3937,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -3326,6 +3963,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3496,6 +4140,13 @@
      "r": 2
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -3527,6 +4178,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3598,6 +4256,13 @@
      "q": false,
      "why": "not a game",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "21779",
@@ -3761,6 +4426,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -3839,13 +4511,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3872,6 +4537,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     }
    ]
   },
@@ -3898,13 +4570,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3924,13 +4589,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     },
     {
      "id": "21779",
@@ -3964,6 +4622,20 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4011,13 +4683,6 @@
      "r": 2
     },
     {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -4029,6 +4694,13 @@
   {
    "t": "2026-11-11T08:41:31Z",
    "top": [
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -4075,6 +4747,20 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4122,17 +4808,24 @@
      "r": 2
     },
     {
-     "id": "1753787976",
-     "name": "ROB RUN",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5",
-     "r": 3
+     "r": 5
     }
    ]
   },
   {
    "t": "2026-11-12T12:18:53Z",
    "top": [
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -4172,6 +4865,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "21779",
@@ -4219,6 +4919,13 @@
      "r": 1
     },
     {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 2
+    },
+    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -4257,6 +4964,20 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4295,19 +5016,19 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
     }
    ]
   },
   {
    "t": "2026-11-14T09:41:04Z",
    "top": [
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 1
+    },
     {
      "id": "509658",
      "name": "Just Chatting",
@@ -4328,6 +5049,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4406,13 +5134,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -4425,13 +5146,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 2
     },
     {
      "id": "18122",
@@ -4465,6 +5179,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     }
    ]
   },
@@ -4484,6 +5205,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
     }
    ]
   },
@@ -4503,13 +5231,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     },
     {
      "id": "21779",
@@ -4543,13 +5264,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -4571,11 +5285,18 @@
      "r": 2
     },
     {
-     "id": "1753787976",
-     "name": "ROB RUN",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5",
-     "r": 4
+     "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
     },
     {
      "id": "21779",
@@ -4604,13 +5325,6 @@
      "r": 2
     },
     {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -4630,13 +5344,6 @@
      "r": 1
     },
     {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 2
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -4649,13 +5356,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "491931",
-     "name": "Escape from Tarkov",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -4675,6 +5375,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
     },
     {
      "id": "21779",
@@ -4701,20 +5408,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
-    },
-    {
-     "id": "491931",
-     "name": "Escape from Tarkov",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -4736,13 +5429,6 @@
      "r": 2
     },
     {
-     "id": "1753787976",
-     "name": "ROB RUN",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -4755,10 +5441,50 @@
      "q": false,
      "why": "not released in 2026",
      "r": 5
+    }
+   ]
+  },
+  {
+   "t": "2026-11-18T17:42:59Z",
+   "top": [
+    {
+     "id": "1867279146",
+     "name": "Grand Theft Auto VI",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 1
     },
     {
-     "id": "491931",
-     "name": "Escape from Tarkov",
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 2
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "29595",
+     "name": "Dota 2",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
      "q": false,
      "why": "not on PS5",
      "r": 6
