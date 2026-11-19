@@ -1,9 +1,9 @@
 {
  "pick": {
-  "id": "743893402",
-  "name": "WARDOGS",
-  "since": "2026-11-13T01:18:01Z",
-  "why": "PS5 · first release 2026-09-10 · paid (Steam says paid)"
+  "id": "1867279146",
+  "name": "Grand Theft Auto VI",
+  "since": "2026-11-19T05:22:33Z",
+  "why": "PS5 · first release 2026-11-19 · paid (no free-to-play signal found)"
  },
  "pick_history": [
   {
@@ -40,6 +40,12 @@
    "id": "743893402",
    "name": "WARDOGS",
    "from": "2026-11-13T01:18:01Z",
+   "to": "2026-11-19T05:22:33Z"
+  },
+  {
+   "id": "1867279146",
+   "name": "Grand Theft Auto VI",
+   "from": "2026-11-19T05:22:33Z",
    "to": null
   }
  ],
