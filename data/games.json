@@ -38,17 +38,6 @@
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-19T14:35:33Z"
  },
- "29595": {
-  "name": "Dota 2",
-  "igdb_id": "",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1373328000,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-18T17:42:59Z"
- },
  "498592": {
   "name": "I'm Only Sleeping",
   "igdb_id": "71001",
@@ -70,5 +59,27 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-11-19T14:35:33Z"
+ },
+ "27471": {
+  "name": "Minecraft",
+  "igdb_id": "135400",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1482105600,
+  "ps5_release": 1718841600,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-11-19T22:31:38Z"
+ },
+ "491931": {
+  "name": "Escape from Tarkov",
+  "igdb_id": "15536",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1763164800,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-11-19T22:31:38Z"
  }
 }
