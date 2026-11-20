@@ -36,18 +36,7 @@
   "ps5_release": 1795046400,
   "free": false,
   "free_source": "no free-to-play signal found",
-  "checked_at": "2026-11-19T14:35:33Z"
- },
- "32982": {
-  "name": "Grand Theft Auto V",
-  "igdb_id": "1020",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1379376000,
-  "ps5_release": 1741996800,
-  "free": false,
-  "free_source": "Steam says paid",
-  "checked_at": "2026-11-19T14:35:33Z"
+  "checked_at": "2026-11-20T20:37:09Z"
  },
  "27471": {
   "name": "Minecraft",
@@ -109,5 +98,27 @@
   "free": true,
   "free_source": "Steam says free",
   "checked_at": "2026-11-20T12:23:15Z"
+ },
+ "32399": {
+  "name": "Counter-Strike",
+  "igdb_id": "",
+  "is_game": true,
+  "on_ps5": false,
+  "first_release": 1069113600,
+  "ps5_release": null,
+  "free": false,
+  "free_source": "no free-to-play signal found",
+  "checked_at": "2026-11-20T20:37:09Z"
+ },
+ "123184772": {
+  "name": "EA Sports FC 27",
+  "igdb_id": "408819",
+  "is_game": true,
+  "on_ps5": true,
+  "first_release": 1790294400,
+  "ps5_release": 1789689600,
+  "free": false,
+  "free_source": "Steam says paid",
+  "checked_at": "2026-11-20T20:37:09Z"
  }
 }
