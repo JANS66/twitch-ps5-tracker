@@ -49,17 +49,6 @@
   "free_source": "IGDB tags it free-to-play",
   "checked_at": "2026-11-22T17:16:12Z"
  },
- "516575": {
-  "name": "VALORANT",
-  "igdb_id": "126459",
-  "is_game": true,
-  "on_ps5": true,
-  "first_release": 1591056000,
-  "ps5_release": 1718323200,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-22T01:55:53Z"
- },
  "33214": {
   "name": "Fortnite",
   "igdb_id": "1905",
