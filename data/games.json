@@ -60,17 +60,6 @@
   "free_source": "no free-to-play signal found",
   "checked_at": "2026-11-24T21:25:21Z"
  },
- "29595": {
-  "name": "Dota 2",
-  "igdb_id": "",
-  "is_game": true,
-  "on_ps5": false,
-  "first_release": 1373328000,
-  "ps5_release": null,
-  "free": true,
-  "free_source": "IGDB tags it free-to-play",
-  "checked_at": "2026-11-24T11:17:30Z"
- },
  "491487": {
   "name": "Dead by Daylight",
   "igdb_id": "18866",
@@ -81,5 +70,11 @@
   "free": false,
   "free_source": "Steam says paid",
   "checked_at": "2026-11-24T21:25:21Z"
+ },
+ "509672": {
+  "name": "IRL",
+  "igdb_id": "",
+  "is_game": false,
+  "checked_at": "2026-11-25T14:44:32Z"
  }
 }
