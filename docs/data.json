@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T00:12:57Z",
+ "generated": "2026-11-27T08:53:33Z",
  "top_n": 6,
  "pick": {
   "id": "1867279146",
@@ -2272,13 +2272,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "1264310518",
-     "name": "Marvel Rivals",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 6
     }
    ]
   },
@@ -2865,6 +2858,13 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
+    },
+    {
+     "id": "499973",
+     "name": "Always On",
+     "q": false,
+     "why": "not a game",
+     "r": 6
     }
    ]
   },
@@ -4536,13 +4536,6 @@
      "r": 2
     },
     {
-     "id": "1264310518",
-     "name": "Marvel Rivals",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 5
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -4744,13 +4737,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "1264310518",
-     "name": "Marvel Rivals",
-     "q": false,
-     "why": "not released in 2026",
-     "r": 3
     }
    ]
   },
@@ -6137,17 +6123,57 @@
      "r": 4
     },
     {
-     "id": "1264310518",
-     "name": "Marvel Rivals",
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
-     "why": "not released in 2026",
-     "r": 5
+     "why": "not on PS5",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T08:53:33Z",
+   "top": [
+    {
+     "id": "1867279146",
+     "name": "Grand Theft Auto VI",
+     "q": true,
+     "why": "PS5 · first release 2026-11-19 · paid (no free-to-play signal found)",
+     "r": 1
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 2
     },
     {
      "id": "32399",
      "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 5
+    },
+    {
+     "id": "499973",
+     "name": "Always On",
+     "q": false,
+     "why": "not a game",
      "r": 6
     }
    ]
