@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T15:32:08Z",
+ "generated": "2026-11-27T00:12:57Z",
  "top_n": 6,
  "pick": {
   "id": "1867279146",
@@ -63,13 +63,6 @@
      "r": 1
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not a game",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -89,13 +82,6 @@
      "r": 1
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -113,13 +99,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 2
     },
     {
      "id": "21779",
@@ -210,13 +189,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     }
    ]
   },
@@ -236,13 +208,6 @@
      "q": true,
      "why": "PS5 · first release 2026-09-25 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     }
    ]
   },
@@ -326,13 +291,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     },
     {
      "id": "21779",
@@ -482,13 +440,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     }
    ]
   },
@@ -624,13 +575,6 @@
      "r": 2
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
-    },
-    {
      "id": "32399",
      "name": "Counter-Strike",
      "q": false,
@@ -681,13 +625,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -877,13 +814,6 @@
      "r": 4
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -948,13 +878,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -1225,13 +1148,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     }
    ]
   },
@@ -1532,13 +1448,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -1740,13 +1649,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -2077,13 +1979,6 @@
      "r": 2
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -2261,13 +2156,6 @@
      "r": 2
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -2306,13 +2194,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     }
    ]
   },
@@ -2391,6 +2272,13 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
+    },
+    {
+     "id": "1264310518",
+     "name": "Marvel Rivals",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 6
     }
    ]
   },
@@ -2450,13 +2338,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -2483,13 +2364,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -2700,13 +2574,6 @@
      "r": 3
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -2738,13 +2605,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -2771,13 +2631,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -2903,13 +2756,6 @@
      "r": 3
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
-    },
-    {
      "id": "1478650472",
      "name": "Call of Duty: Modern Warfare 4",
      "q": true,
@@ -2941,13 +2787,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -3052,13 +2891,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -3170,13 +3002,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-23 · paid (Steam says paid)",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3196,13 +3021,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
     },
     {
      "id": "21779",
@@ -3229,13 +3047,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     }
    ]
   },
@@ -3314,13 +3125,6 @@
      "q": true,
      "why": "PS5 · first release 2026-10-29 · paid (Steam says paid)",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3451,13 +3255,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     }
    ]
   },
@@ -3484,13 +3281,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3574,13 +3364,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3657,13 +3440,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -3676,13 +3452,6 @@
      "q": false,
      "why": "not a game",
      "r": 1
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
     },
     {
      "id": "21779",
@@ -3865,13 +3634,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -4630,13 +4392,6 @@
      "r": 3
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
-    },
-    {
      "id": "32399",
      "name": "Counter-Strike",
      "q": false,
@@ -4755,13 +4510,6 @@
      "r": 3
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
-    },
-    {
      "id": "32399",
      "name": "Counter-Strike",
      "q": false,
@@ -4786,6 +4534,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "1264310518",
+     "name": "Marvel Rivals",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 5
     },
     {
      "id": "21779",
@@ -4871,13 +4626,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     },
     {
      "id": "21779",
@@ -4977,13 +4725,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -5003,6 +4744,13 @@
      "q": false,
      "why": "not on PS5",
      "r": 2
+    },
+    {
+     "id": "1264310518",
+     "name": "Marvel Rivals",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 3
     }
    ]
   },
@@ -5055,13 +4803,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -5298,13 +5039,6 @@
      "r": 3
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
-    },
-    {
      "id": "21779",
      "name": "League of Legends",
      "q": false,
@@ -5475,13 +5209,6 @@
      "r": 3
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
-    },
-    {
      "id": "32399",
      "name": "Counter-Strike",
      "q": false,
@@ -5527,13 +5254,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -5600,13 +5320,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -5692,13 +5405,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
     },
     {
      "id": "18122",
@@ -5826,13 +5532,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 4
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 5
     }
    ]
   },
@@ -5852,13 +5551,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
     },
     {
      "id": "18122",
@@ -5906,13 +5598,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 3
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
     },
     {
      "id": "21779",
@@ -6005,13 +5690,6 @@
      "q": false,
      "why": "not a game",
      "r": 2
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 3
     },
     {
      "id": "18122",
@@ -6205,13 +5883,6 @@
      "q": false,
      "why": "not on PS5",
      "r": 5
-    },
-    {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 6
     }
    ]
   },
@@ -6419,13 +6090,6 @@
      "r": 3
     },
     {
-     "id": "29595",
-     "name": "Dota 2",
-     "q": false,
-     "why": "not on PS5",
-     "r": 4
-    },
-    {
      "id": "18122",
      "name": "World of Warcraft",
      "q": false,
@@ -6435,6 +6099,53 @@
     {
      "id": "21779",
      "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 6
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T00:12:57Z",
+   "top": [
+    {
+     "id": "1867279146",
+     "name": "Grand Theft Auto VI",
+     "q": true,
+     "why": "PS5 · first release 2026-11-19 · paid (no free-to-play signal found)",
+     "r": 1
+    },
+    {
+     "id": "509658",
+     "name": "Just Chatting",
+     "q": false,
+     "why": "not a game",
+     "r": 2
+    },
+    {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "q": false,
+     "why": "not on PS5",
+     "r": 3
+    },
+    {
+     "id": "21779",
+     "name": "League of Legends",
+     "q": false,
+     "why": "not on PS5",
+     "r": 4
+    },
+    {
+     "id": "1264310518",
+     "name": "Marvel Rivals",
+     "q": false,
+     "why": "not released in 2026",
+     "r": 5
+    },
+    {
+     "id": "32399",
+     "name": "Counter-Strike",
      "q": false,
      "why": "not on PS5",
      "r": 6
